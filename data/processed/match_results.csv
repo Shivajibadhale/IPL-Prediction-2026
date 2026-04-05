@@ -1,0 +1,1165 @@
+match_id,team1,team2,score1,score2,winner
+335982,Kolkata Knight Riders,Royal Challengers Bangalore,222.0,82.0,Kolkata Knight Riders
+335983,Chennai Super Kings,Punjab Kings,240.0,207.0,Chennai Super Kings
+335984,Delhi Capitals,Rajasthan Royals,132.0,129.0,Delhi Capitals
+335985,Mumbai Indians,Royal Challengers Bangalore,165.0,166.0,Royal Challengers Bangalore
+335986,Deccan Chargers,Kolkata Knight Riders,110.0,112.0,Kolkata Knight Riders
+335987,Punjab Kings,Rajasthan Royals,166.0,168.0,Rajasthan Royals
+335988,Deccan Chargers,Delhi Capitals,142.0,143.0,Delhi Capitals
+335989,Chennai Super Kings,Mumbai Indians,208.0,202.0,Chennai Super Kings
+335990,Deccan Chargers,Rajasthan Royals,214.0,217.0,Rajasthan Royals
+335991,Mumbai Indians,Punjab Kings,116.0,182.0,Punjab Kings
+335992,Rajasthan Royals,Royal Challengers Bangalore,138.0,135.0,Rajasthan Royals
+335993,Chennai Super Kings,Kolkata Knight Riders,152.0,147.0,Chennai Super Kings
+335994,Deccan Chargers,Mumbai Indians,155.0,154.0,Deccan Chargers
+335995,Delhi Capitals,Punjab Kings,158.0,162.0,Punjab Kings
+335996,Chennai Super Kings,Royal Challengers Bangalore,178.0,165.0,Chennai Super Kings
+335997,Kolkata Knight Riders,Mumbai Indians,137.0,138.0,Mumbai Indians
+335998,Delhi Capitals,Royal Challengers Bangalore,191.0,181.0,Delhi Capitals
+335999,Deccan Chargers,Punjab Kings,164.0,167.0,Punjab Kings
+336000,Kolkata Knight Riders,Rajasthan Royals,151.0,196.0,Rajasthan Royals
+336001,Chennai Super Kings,Delhi Capitals,169.0,172.0,Delhi Capitals
+336002,Deccan Chargers,Royal Challengers Bangalore,165.0,171.0,Royal Challengers Bangalore
+336003,Kolkata Knight Riders,Punjab Kings,169.0,178.0,Punjab Kings
+336004,Delhi Capitals,Mumbai Indians,133.0,162.0,Mumbai Indians
+336005,Chennai Super Kings,Rajasthan Royals,109.0,110.0,Rajasthan Royals
+336006,Punjab Kings,Royal Challengers Bangalore,127.0,126.0,Punjab Kings
+336007,Chennai Super Kings,Deccan Chargers,144.0,148.0,Deccan Chargers
+336008,Mumbai Indians,Rajasthan Royals,104.0,103.0,Mumbai Indians
+336009,Chennai Super Kings,Delhi Capitals,188.0,187.0,Chennai Super Kings
+336010,Kolkata Knight Riders,Royal Challengers Bangalore,129.0,124.0,Kolkata Knight Riders
+336011,Deccan Chargers,Rajasthan Royals,140.0,141.0,Rajasthan Royals
+336012,Mumbai Indians,Royal Challengers Bangalore,126.0,122.0,Mumbai Indians
+336013,Chennai Super Kings,Punjab Kings,181.0,163.0,Chennai Super Kings
+336014,Deccan Chargers,Kolkata Knight Riders,181.0,204.0,Kolkata Knight Riders
+336015,Delhi Capitals,Rajasthan Royals,156.0,159.0,Rajasthan Royals
+336016,Punjab Kings,Royal Challengers Bangalore,144.0,143.0,Punjab Kings
+336017,Delhi Capitals,Kolkata Knight Riders,110.0,133.0,Kolkata Knight Riders
+336018,Chennai Super Kings,Mumbai Indians,156.0,158.0,Mumbai Indians
+336019,Punjab Kings,Rajasthan Royals,221.0,180.0,Punjab Kings
+336020,Deccan Chargers,Delhi Capitals,182.0,194.0,Delhi Capitals
+336021,Kolkata Knight Riders,Mumbai Indians,67.0,68.0,Mumbai Indians
+336022,Delhi Capitals,Punjab Kings,118.0,94.0,Delhi Capitals
+336023,Rajasthan Royals,Royal Challengers Bangalore,197.0,132.0,Rajasthan Royals
+336024,Deccan Chargers,Mumbai Indians,153.0,178.0,Mumbai Indians
+336025,Chennai Super Kings,Kolkata Knight Riders,55.0,149.0,Kolkata Knight Riders
+336026,Delhi Capitals,Royal Challengers Bangalore,158.0,154.0,Delhi Capitals
+336027,Kolkata Knight Riders,Rajasthan Royals,147.0,150.0,Rajasthan Royals
+336028,Mumbai Indians,Punjab Kings,188.0,189.0,Punjab Kings
+336029,Chennai Super Kings,Royal Challengers Bangalore,112.0,126.0,Royal Challengers Bangalore
+336031,Deccan Chargers,Punjab Kings,175.0,178.0,Punjab Kings
+336032,Delhi Capitals,Mumbai Indians,179.0,176.0,Delhi Capitals
+336033,Chennai Super Kings,Rajasthan Royals,201.0,211.0,Rajasthan Royals
+336034,Deccan Chargers,Royal Challengers Bangalore,153.0,156.0,Royal Challengers Bangalore
+336035,Kolkata Knight Riders,Punjab Kings,175.0,174.0,Kolkata Knight Riders
+336036,Mumbai Indians,Rajasthan Royals,145.0,146.0,Rajasthan Royals
+336037,Chennai Super Kings,Deccan Chargers,148.0,147.0,Chennai Super Kings
+336038,Delhi Capitals,Rajasthan Royals,87.0,192.0,Rajasthan Royals
+336039,Chennai Super Kings,Punjab Kings,116.0,112.0,Chennai Super Kings
+336040,Chennai Super Kings,Rajasthan Royals,163.0,164.0,Rajasthan Royals
+392181,Chennai Super Kings,Mumbai Indians,146.0,165.0,Mumbai Indians
+392182,Rajasthan Royals,Royal Challengers Bangalore,58.0,133.0,Royal Challengers Bangalore
+392183,Delhi Capitals,Punjab Kings,58.0,104.0,Punjab Kings
+392184,Deccan Chargers,Kolkata Knight Riders,104.0,101.0,Deccan Chargers
+392185,Chennai Super Kings,Royal Challengers Bangalore,179.0,87.0,Chennai Super Kings
+392186,Kolkata Knight Riders,Punjab Kings,79.0,158.0,Punjab Kings
+392188,Deccan Chargers,Royal Challengers Bangalore,184.0,160.0,Deccan Chargers
+392189,Chennai Super Kings,Delhi Capitals,180.0,189.0,Delhi Capitals
+392190,Kolkata Knight Riders,Rajasthan Royals,165.0,168.0,Rajasthan Royals
+392191,Punjab Kings,Royal Challengers Bangalore,173.0,168.0,Punjab Kings
+392192,Deccan Chargers,Mumbai Indians,168.0,156.0,Deccan Chargers
+392194,Delhi Capitals,Royal Challengers Bangalore,150.0,149.0,Delhi Capitals
+392195,Punjab Kings,Rajasthan Royals,139.0,112.0,Punjab Kings
+392196,Chennai Super Kings,Deccan Chargers,165.0,169.0,Deccan Chargers
+392197,Kolkata Knight Riders,Mumbai Indians,95.0,187.0,Mumbai Indians
+392198,Delhi Capitals,Rajasthan Royals,143.0,147.0,Rajasthan Royals
+392199,Kolkata Knight Riders,Royal Challengers Bangalore,139.0,143.0,Royal Challengers Bangalore
+392200,Mumbai Indians,Punjab Kings,116.0,119.0,Punjab Kings
+392201,Deccan Chargers,Delhi Capitals,148.0,150.0,Delhi Capitals
+392202,Chennai Super Kings,Rajasthan Royals,164.0,126.0,Chennai Super Kings
+392203,Kolkata Knight Riders,Mumbai Indians,139.0,148.0,Mumbai Indians
+392204,Punjab Kings,Royal Challengers Bangalore,137.0,145.0,Royal Challengers Bangalore
+392205,Deccan Chargers,Rajasthan Royals,141.0,142.0,Rajasthan Royals
+392206,Chennai Super Kings,Delhi Capitals,163.0,145.0,Chennai Super Kings
+392207,Kolkata Knight Riders,Punjab Kings,153.0,154.0,Punjab Kings
+392208,Mumbai Indians,Royal Challengers Bangalore,149.0,150.0,Royal Challengers Bangalore
+392209,Chennai Super Kings,Deccan Chargers,178.0,100.0,Chennai Super Kings
+392210,Punjab Kings,Rajasthan Royals,133.0,211.0,Rajasthan Royals
+392211,Delhi Capitals,Kolkata Knight Riders,157.0,154.0,Delhi Capitals
+392212,Deccan Chargers,Mumbai Indians,145.0,126.0,Deccan Chargers
+392213,Rajasthan Royals,Royal Challengers Bangalore,107.0,105.0,Rajasthan Royals
+392214,Chennai Super Kings,Punjab Kings,185.0,174.0,Chennai Super Kings
+392215,Delhi Capitals,Mumbai Indians,118.0,116.0,Delhi Capitals
+392216,Deccan Chargers,Punjab Kings,168.0,169.0,Punjab Kings
+392217,Chennai Super Kings,Rajasthan Royals,141.0,140.0,Chennai Super Kings
+392218,Mumbai Indians,Royal Challengers Bangalore,157.0,141.0,Mumbai Indians
+392219,Delhi Capitals,Kolkata Knight Riders,125.0,123.0,Delhi Capitals
+392220,Deccan Chargers,Rajasthan Royals,166.0,113.0,Deccan Chargers
+392221,Kolkata Knight Riders,Royal Challengers Bangalore,173.0,176.0,Royal Challengers Bangalore
+392222,Mumbai Indians,Punjab Kings,122.0,119.0,Mumbai Indians
+392223,Deccan Chargers,Delhi Capitals,161.0,173.0,Delhi Capitals
+392224,Chennai Super Kings,Royal Challengers Bangalore,129.0,132.0,Royal Challengers Bangalore
+392225,Mumbai Indians,Rajasthan Royals,143.0,145.0,Rajasthan Royals
+392226,Delhi Capitals,Punjab Kings,120.0,123.0,Punjab Kings
+392227,Chennai Super Kings,Mumbai Indians,151.0,147.0,Chennai Super Kings
+392228,Deccan Chargers,Kolkata Knight Riders,166.0,160.0,Deccan Chargers
+392229,Deccan Chargers,Punjab Kings,133.0,134.0,Punjab Kings
+392230,Delhi Capitals,Rajasthan Royals,150.0,136.0,Delhi Capitals
+392231,Chennai Super Kings,Kolkata Knight Riders,188.0,189.0,Kolkata Knight Riders
+392232,Delhi Capitals,Royal Challengers Bangalore,134.0,135.0,Royal Challengers Bangalore
+392233,Kolkata Knight Riders,Rajasthan Royals,102.0,101.0,Kolkata Knight Riders
+392234,Chennai Super Kings,Punjab Kings,116.0,92.0,Chennai Super Kings
+392235,Delhi Capitals,Mumbai Indians,166.0,165.0,Delhi Capitals
+392236,Deccan Chargers,Royal Challengers Bangalore,158.0,170.0,Royal Challengers Bangalore
+392237,Deccan Chargers,Delhi Capitals,154.0,153.0,Deccan Chargers
+392238,Chennai Super Kings,Royal Challengers Bangalore,146.0,149.0,Royal Challengers Bangalore
+392239,Deccan Chargers,Royal Challengers Bangalore,143.0,137.0,Deccan Chargers
+419106,Deccan Chargers,Kolkata Knight Riders,150.0,161.0,Kolkata Knight Riders
+419107,Mumbai Indians,Rajasthan Royals,212.0,208.0,Mumbai Indians
+419108,Delhi Capitals,Punjab Kings,146.0,142.0,Delhi Capitals
+419109,Kolkata Knight Riders,Royal Challengers Bangalore,136.0,135.0,Kolkata Knight Riders
+419110,Chennai Super Kings,Deccan Chargers,159.0,190.0,Deccan Chargers
+419111,Delhi Capitals,Rajasthan Royals,142.0,141.0,Delhi Capitals
+419112,Punjab Kings,Royal Challengers Bangalore,203.0,204.0,Royal Challengers Bangalore
+419113,Chennai Super Kings,Kolkata Knight Riders,164.0,109.0,Chennai Super Kings
+419114,Delhi Capitals,Mumbai Indians,120.0,218.0,Mumbai Indians
+419115,Rajasthan Royals,Royal Challengers Bangalore,92.0,93.0,Royal Challengers Bangalore
+419116,Chennai Super Kings,Delhi Capitals,190.0,185.0,Chennai Super Kings
+419117,Deccan Chargers,Punjab Kings,170.0,164.0,Deccan Chargers
+419118,Kolkata Knight Riders,Rajasthan Royals,134.0,168.0,Rajasthan Royals
+419119,Mumbai Indians,Royal Challengers Bangalore,151.0,155.0,Royal Challengers Bangalore
+419120,Deccan Chargers,Delhi Capitals,171.0,161.0,Deccan Chargers
+419121,Chennai Super Kings,Punjab Kings,145.0,146.0,Punjab Kings
+419122,Kolkata Knight Riders,Mumbai Indians,155.0,156.0,Mumbai Indians
+419123,Chennai Super Kings,Royal Challengers Bangalore,135.0,171.0,Royal Challengers Bangalore
+419124,Punjab Kings,Rajasthan Royals,152.0,183.0,Rajasthan Royals
+419125,Chennai Super Kings,Mumbai Indians,180.0,181.0,Mumbai Indians
+419126,Deccan Chargers,Rajasthan Royals,148.0,151.0,Rajasthan Royals
+419127,Kolkata Knight Riders,Punjab Kings,183.0,144.0,Kolkata Knight Riders
+419128,Delhi Capitals,Royal Challengers Bangalore,183.0,166.0,Delhi Capitals
+419129,Chennai Super Kings,Rajasthan Royals,160.0,177.0,Rajasthan Royals
+419130,Deccan Chargers,Mumbai Indians,131.0,172.0,Mumbai Indians
+419131,Delhi Capitals,Kolkata Knight Riders,177.0,137.0,Delhi Capitals
+419132,Mumbai Indians,Punjab Kings,164.0,163.0,Mumbai Indians
+419133,Chennai Super Kings,Royal Challengers Bangalore,162.0,161.0,Chennai Super Kings
+419134,Delhi Capitals,Rajasthan Royals,188.0,121.0,Delhi Capitals
+419135,Deccan Chargers,Kolkata Knight Riders,157.0,181.0,Kolkata Knight Riders
+419136,Punjab Kings,Royal Challengers Bangalore,181.0,184.0,Royal Challengers Bangalore
+419137,Chennai Super Kings,Rajasthan Royals,246.0,223.0,Chennai Super Kings
+419138,Deccan Chargers,Mumbai Indians,115.0,178.0,Mumbai Indians
+419139,Kolkata Knight Riders,Punjab Kings,200.0,204.0,Punjab Kings
+419140,Delhi Capitals,Royal Challengers Bangalore,184.0,147.0,Delhi Capitals
+419141,Deccan Chargers,Rajasthan Royals,157.0,159.0,Rajasthan Royals
+419142,Chennai Super Kings,Mumbai Indians,165.0,141.0,Chennai Super Kings
+419143,Punjab Kings,Rajasthan Royals,153.0,157.0,Rajasthan Royals
+419144,Delhi Capitals,Kolkata Knight Riders,167.0,181.0,Kolkata Knight Riders
+419145,Deccan Chargers,Royal Challengers Bangalore,186.0,184.0,Deccan Chargers
+419146,Mumbai Indians,Punjab Kings,154.0,158.0,Punjab Kings
+419147,Chennai Super Kings,Deccan Chargers,138.0,139.0,Deccan Chargers
+419148,Kolkata Knight Riders,Royal Challengers Bangalore,160.0,162.0,Royal Challengers Bangalore
+419149,Delhi Capitals,Punjab Kings,111.0,112.0,Punjab Kings
+419150,Mumbai Indians,Rajasthan Royals,174.0,137.0,Mumbai Indians
+419151,Deccan Chargers,Royal Challengers Bangalore,151.0,138.0,Deccan Chargers
+419152,Delhi Capitals,Mumbai Indians,144.0,183.0,Mumbai Indians
+419153,Chennai Super Kings,Kolkata Knight Riders,143.0,139.0,Chennai Super Kings
+419154,Rajasthan Royals,Royal Challengers Bangalore,130.0,132.0,Royal Challengers Bangalore
+419155,Chennai Super Kings,Delhi Capitals,112.0,113.0,Delhi Capitals
+419156,Deccan Chargers,Punjab Kings,178.0,174.0,Deccan Chargers
+419157,Mumbai Indians,Royal Challengers Bangalore,191.0,134.0,Mumbai Indians
+419158,Kolkata Knight Riders,Rajasthan Royals,133.0,132.0,Kolkata Knight Riders
+419159,Chennai Super Kings,Punjab Kings,195.0,192.0,Chennai Super Kings
+419160,Deccan Chargers,Delhi Capitals,145.0,134.0,Deccan Chargers
+419161,Kolkata Knight Riders,Mumbai Indians,135.0,133.0,Kolkata Knight Riders
+419162,Mumbai Indians,Royal Challengers Bangalore,184.0,149.0,Mumbai Indians
+419163,Chennai Super Kings,Deccan Chargers,142.0,104.0,Chennai Super Kings
+419164,Deccan Chargers,Royal Challengers Bangalore,82.0,86.0,Royal Challengers Bangalore
+419165,Chennai Super Kings,Mumbai Indians,168.0,146.0,Chennai Super Kings
+501198,Chennai Super Kings,Kolkata Knight Riders,153.0,151.0,Chennai Super Kings
+501199,Deccan Chargers,Rajasthan Royals,137.0,141.0,Rajasthan Royals
+501200,Kochi Tuskers Kerala,Royal Challengers Bangalore,161.0,162.0,Royal Challengers Bangalore
+501201,Delhi Capitals,Mumbai Indians,95.0,99.0,Mumbai Indians
+501202,Pune Warriors,Punjab Kings,113.0,112.0,Pune Warriors
+501203,Deccan Chargers,Kolkata Knight Riders,154.0,163.0,Kolkata Knight Riders
+501204,Delhi Capitals,Rajasthan Royals,151.0,152.0,Rajasthan Royals
+501205,Mumbai Indians,Royal Challengers Bangalore,143.0,140.0,Mumbai Indians
+501206,Chennai Super Kings,Punjab Kings,188.0,193.0,Punjab Kings
+501207,Kochi Tuskers Kerala,Pune Warriors,148.0,151.0,Pune Warriors
+501208,Deccan Chargers,Royal Challengers Bangalore,175.0,142.0,Deccan Chargers
+501209,Kolkata Knight Riders,Rajasthan Royals,160.0,159.0,Kolkata Knight Riders
+501210,Kochi Tuskers Kerala,Mumbai Indians,184.0,182.0,Kochi Tuskers Kerala
+501211,Chennai Super Kings,Royal Challengers Bangalore,183.0,162.0,Chennai Super Kings
+501212,Deccan Chargers,Punjab Kings,165.0,166.0,Punjab Kings
+501213,Delhi Capitals,Pune Warriors,190.0,187.0,Delhi Capitals
+501214,Kolkata Knight Riders,Rajasthan Royals,85.0,81.0,Kolkata Knight Riders
+501215,Chennai Super Kings,Kochi Tuskers Kerala,131.0,135.0,Kochi Tuskers Kerala
+501216,Deccan Chargers,Delhi Capitals,168.0,152.0,Deccan Chargers
+501218,Mumbai Indians,Pune Warriors,124.0,118.0,Mumbai Indians
+501219,Kochi Tuskers Kerala,Kolkata Knight Riders,132.0,126.0,Kochi Tuskers Kerala
+501220,Punjab Kings,Rajasthan Royals,195.0,147.0,Punjab Kings
+501221,Chennai Super Kings,Mumbai Indians,156.0,164.0,Mumbai Indians
+501222,Kolkata Knight Riders,Royal Challengers Bangalore,171.0,175.0,Royal Challengers Bangalore
+501223,Delhi Capitals,Punjab Kings,231.0,202.0,Delhi Capitals
+501224,Deccan Chargers,Mumbai Indians,135.0,172.0,Mumbai Indians
+501225,Kochi Tuskers Kerala,Rajasthan Royals,109.0,111.0,Rajasthan Royals
+501226,Chennai Super Kings,Pune Warriors,142.0,117.0,Chennai Super Kings
+501227,Delhi Capitals,Royal Challengers Bangalore,160.0,161.0,Royal Challengers Bangalore
+501228,Chennai Super Kings,Pune Warriors,145.0,141.0,Chennai Super Kings
+501229,Deccan Chargers,Kochi Tuskers Kerala,129.0,74.0,Deccan Chargers
+501230,Delhi Capitals,Kolkata Knight Riders,131.0,148.0,Kolkata Knight Riders
+501231,Mumbai Indians,Rajasthan Royals,94.0,95.0,Rajasthan Royals
+501232,Pune Warriors,Royal Challengers Bangalore,155.0,181.0,Royal Challengers Bangalore
+501233,Delhi Capitals,Kochi Tuskers Kerala,157.0,119.0,Delhi Capitals
+501234,Kolkata Knight Riders,Punjab Kings,120.0,119.0,Kolkata Knight Riders
+501235,Pune Warriors,Rajasthan Royals,143.0,144.0,Rajasthan Royals
+501236,Chennai Super Kings,Deccan Chargers,165.0,146.0,Chennai Super Kings
+501237,Mumbai Indians,Punjab Kings,159.0,136.0,Mumbai Indians
+501238,Delhi Capitals,Kochi Tuskers Kerala,140.0,141.0,Kochi Tuskers Kerala
+501239,Deccan Chargers,Kolkata Knight Riders,149.0,169.0,Kolkata Knight Riders
+501240,Chennai Super Kings,Rajasthan Royals,149.0,147.0,Chennai Super Kings
+501241,Mumbai Indians,Pune Warriors,160.0,139.0,Mumbai Indians
+501242,Kochi Tuskers Kerala,Kolkata Knight Riders,156.0,139.0,Kochi Tuskers Kerala
+501243,Deccan Chargers,Delhi Capitals,175.0,179.0,Delhi Capitals
+501244,Punjab Kings,Royal Challengers Bangalore,120.0,205.0,Royal Challengers Bangalore
+501245,Chennai Super Kings,Kolkata Knight Riders,114.0,61.0,Chennai Super Kings
+501246,Delhi Capitals,Mumbai Indians,146.0,178.0,Mumbai Indians
+501247,Kochi Tuskers Kerala,Royal Challengers Bangalore,125.0,128.0,Royal Challengers Bangalore
+501248,Pune Warriors,Punjab Kings,120.0,119.0,Pune Warriors
+501249,Chennai Super Kings,Rajasthan Royals,196.0,133.0,Chennai Super Kings
+501250,Deccan Chargers,Pune Warriors,136.0,137.0,Pune Warriors
+501251,Mumbai Indians,Punjab Kings,87.0,163.0,Punjab Kings
+501252,Rajasthan Royals,Royal Challengers Bangalore,146.0,151.0,Royal Challengers Bangalore
+501253,Chennai Super Kings,Delhi Capitals,176.0,158.0,Chennai Super Kings
+501254,Kochi Tuskers Kerala,Punjab Kings,178.0,181.0,Punjab Kings
+501255,Kolkata Knight Riders,Royal Challengers Bangalore,89.0,105.0,Royal Challengers Bangalore
+501256,Deccan Chargers,Mumbai Indians,135.0,125.0,Deccan Chargers
+501257,Delhi Capitals,Punjab Kings,141.0,170.0,Punjab Kings
+501258,Kochi Tuskers Kerala,Rajasthan Royals,98.0,97.0,Kochi Tuskers Kerala
+501259,Deccan Chargers,Pune Warriors,138.0,136.0,Deccan Chargers
+501260,Punjab Kings,Royal Challengers Bangalore,232.0,121.0,Punjab Kings
+501261,Chennai Super Kings,Kochi Tuskers Kerala,152.0,141.0,Chennai Super Kings
+501262,Kolkata Knight Riders,Pune Warriors,119.0,118.0,Kolkata Knight Riders
+501263,Mumbai Indians,Rajasthan Royals,133.0,134.0,Rajasthan Royals
+501264,Deccan Chargers,Punjab Kings,198.0,116.0,Deccan Chargers
+501266,Chennai Super Kings,Royal Challengers Bangalore,128.0,129.0,Royal Challengers Bangalore
+501267,Kolkata Knight Riders,Mumbai Indians,175.0,178.0,Mumbai Indians
+501268,Chennai Super Kings,Royal Challengers Bangalore,177.0,175.0,Chennai Super Kings
+501269,Kolkata Knight Riders,Mumbai Indians,147.0,148.0,Mumbai Indians
+501270,Mumbai Indians,Royal Challengers Bangalore,142.0,185.0,Royal Challengers Bangalore
+501271,Chennai Super Kings,Royal Challengers Bangalore,205.0,147.0,Chennai Super Kings
+548306,Chennai Super Kings,Mumbai Indians,112.0,115.0,Mumbai Indians
+548307,Delhi Capitals,Kolkata Knight Riders,100.0,97.0,Delhi Capitals
+548308,Mumbai Indians,Pune Warriors,101.0,129.0,Pune Warriors
+548309,Punjab Kings,Rajasthan Royals,160.0,191.0,Rajasthan Royals
+548310,Delhi Capitals,Royal Challengers Bangalore,137.0,157.0,Royal Challengers Bangalore
+548311,Chennai Super Kings,Deccan Chargers,193.0,119.0,Chennai Super Kings
+548312,Kolkata Knight Riders,Rajasthan Royals,142.0,164.0,Rajasthan Royals
+548313,Pune Warriors,Punjab Kings,166.0,144.0,Pune Warriors
+548314,Deccan Chargers,Mumbai Indians,138.0,142.0,Mumbai Indians
+548315,Kolkata Knight Riders,Royal Challengers Bangalore,165.0,123.0,Kolkata Knight Riders
+548316,Chennai Super Kings,Delhi Capitals,110.0,111.0,Delhi Capitals
+548317,Mumbai Indians,Rajasthan Royals,197.0,170.0,Mumbai Indians
+548318,Chennai Super Kings,Royal Challengers Bangalore,208.0,205.0,Chennai Super Kings
+548319,Pune Warriors,Punjab Kings,115.0,116.0,Punjab Kings
+548320,Kolkata Knight Riders,Rajasthan Royals,137.0,131.0,Kolkata Knight Riders
+548321,Deccan Chargers,Delhi Capitals,157.0,162.0,Delhi Capitals
+548322,Chennai Super Kings,Pune Warriors,155.0,156.0,Pune Warriors
+548323,Kolkata Knight Riders,Punjab Kings,132.0,134.0,Punjab Kings
+548324,Rajasthan Royals,Royal Challengers Bangalore,195.0,136.0,Rajasthan Royals
+548325,Delhi Capitals,Mumbai Indians,93.0,92.0,Delhi Capitals
+548326,Deccan Chargers,Rajasthan Royals,196.0,197.0,Rajasthan Royals
+548327,Pune Warriors,Royal Challengers Bangalore,182.0,186.0,Royal Challengers Bangalore
+548328,Kolkata Knight Riders,Punjab Kings,127.0,124.0,Kolkata Knight Riders
+548329,Deccan Chargers,Delhi Capitals,187.0,193.0,Delhi Capitals
+548330,Chennai Super Kings,Pune Warriors,164.0,151.0,Chennai Super Kings
+548331,Punjab Kings,Royal Challengers Bangalore,163.0,166.0,Royal Challengers Bangalore
+548332,Chennai Super Kings,Rajasthan Royals,147.0,146.0,Chennai Super Kings
+548333,Delhi Capitals,Pune Warriors,172.0,192.0,Pune Warriors
+548334,Mumbai Indians,Punjab Kings,163.0,164.0,Punjab Kings
+548335,Deccan Chargers,Kolkata Knight Riders,126.0,127.0,Kolkata Knight Riders
+548336,Rajasthan Royals,Royal Challengers Bangalore,143.0,189.0,Royal Challengers Bangalore
+548337,Delhi Capitals,Pune Warriors,148.0,146.0,Delhi Capitals
+548339,Mumbai Indians,Punjab Kings,171.0,168.0,Mumbai Indians
+548341,Deccan Chargers,Pune Warriors,177.0,159.0,Deccan Chargers
+548342,Delhi Capitals,Mumbai Indians,207.0,170.0,Delhi Capitals
+548343,Chennai Super Kings,Punjab Kings,149.0,156.0,Punjab Kings
+548344,Kolkata Knight Riders,Royal Challengers Bangalore,190.0,143.0,Kolkata Knight Riders
+548345,Delhi Capitals,Rajasthan Royals,152.0,151.0,Delhi Capitals
+548346,Deccan Chargers,Mumbai Indians,100.0,101.0,Mumbai Indians
+548347,Chennai Super Kings,Kolkata Knight Riders,139.0,140.0,Kolkata Knight Riders
+548348,Deccan Chargers,Pune Warriors,186.0,173.0,Deccan Chargers
+548349,Delhi Capitals,Rajasthan Royals,144.0,141.0,Delhi Capitals
+548350,Punjab Kings,Royal Challengers Bangalore,163.0,158.0,Punjab Kings
+548351,Mumbai Indians,Pune Warriors,120.0,119.0,Mumbai Indians
+548352,Chennai Super Kings,Deccan Chargers,160.0,150.0,Chennai Super Kings
+548353,Kolkata Knight Riders,Pune Warriors,150.0,143.0,Kolkata Knight Riders
+548354,Punjab Kings,Rajasthan Royals,134.0,177.0,Rajasthan Royals
+548355,Chennai Super Kings,Mumbai Indians,173.0,174.0,Mumbai Indians
+548356,Deccan Chargers,Royal Challengers Bangalore,181.0,185.0,Royal Challengers Bangalore
+548357,Delhi Capitals,Kolkata Knight Riders,153.0,154.0,Kolkata Knight Riders
+548358,Pune Warriors,Rajasthan Royals,125.0,126.0,Rajasthan Royals
+548359,Deccan Chargers,Punjab Kings,145.0,170.0,Punjab Kings
+548360,Mumbai Indians,Royal Challengers Bangalore,141.0,142.0,Royal Challengers Bangalore
+548361,Chennai Super Kings,Rajasthan Royals,127.0,126.0,Chennai Super Kings
+548362,Pune Warriors,Royal Challengers Bangalore,138.0,173.0,Royal Challengers Bangalore
+548363,Kolkata Knight Riders,Mumbai Indians,155.0,182.0,Mumbai Indians
+548364,Chennai Super Kings,Delhi Capitals,115.0,114.0,Chennai Super Kings
+548365,Pune Warriors,Rajasthan Royals,125.0,170.0,Rajasthan Royals
+548366,Deccan Chargers,Punjab Kings,190.0,194.0,Punjab Kings
+548367,Mumbai Indians,Royal Challengers Bangalore,173.0,171.0,Mumbai Indians
+548368,Chennai Super Kings,Kolkata Knight Riders,160.0,158.0,Chennai Super Kings
+548369,Delhi Capitals,Punjab Kings,140.0,136.0,Delhi Capitals
+548370,Kolkata Knight Riders,Mumbai Indians,140.0,108.0,Kolkata Knight Riders
+548371,Chennai Super Kings,Punjab Kings,120.0,123.0,Punjab Kings
+548372,Delhi Capitals,Royal Challengers Bangalore,194.0,215.0,Royal Challengers Bangalore
+548373,Deccan Chargers,Rajasthan Royals,128.0,126.0,Deccan Chargers
+548374,Delhi Capitals,Punjab Kings,145.0,141.0,Delhi Capitals
+548375,Kolkata Knight Riders,Pune Warriors,136.0,102.0,Kolkata Knight Riders
+548376,Deccan Chargers,Royal Challengers Bangalore,132.0,123.0,Deccan Chargers
+548377,Mumbai Indians,Rajasthan Royals,163.0,162.0,Mumbai Indians
+548378,Delhi Capitals,Kolkata Knight Riders,144.0,162.0,Kolkata Knight Riders
+548379,Chennai Super Kings,Mumbai Indians,187.0,149.0,Chennai Super Kings
+548380,Chennai Super Kings,Delhi Capitals,222.0,136.0,Chennai Super Kings
+548381,Chennai Super Kings,Kolkata Knight Riders,190.0,192.0,Kolkata Knight Riders
+597998,Delhi Capitals,Kolkata Knight Riders,128.0,129.0,Kolkata Knight Riders
+597999,Mumbai Indians,Royal Challengers Bangalore,154.0,156.0,Royal Challengers Bangalore
+598000,Pune Warriors,Sunrisers Hyderabad,104.0,126.0,Sunrisers Hyderabad
+598001,Delhi Capitals,Rajasthan Royals,160.0,165.0,Rajasthan Royals
+598002,Chennai Super Kings,Mumbai Indians,139.0,148.0,Mumbai Indians
+598003,Pune Warriors,Punjab Kings,99.0,100.0,Punjab Kings
+598004,Royal Challengers Bangalore,Sunrisers Hyderabad,145.0,150.0,Sunrisers Hyderabad
+598005,Kolkata Knight Riders,Rajasthan Royals,125.0,144.0,Rajasthan Royals
+598006,Delhi Capitals,Mumbai Indians,165.0,209.0,Mumbai Indians
+598007,Chennai Super Kings,Punjab Kings,139.0,138.0,Chennai Super Kings
+598008,Kolkata Knight Riders,Royal Challengers Bangalore,154.0,158.0,Royal Challengers Bangalore
+598009,Pune Warriors,Rajasthan Royals,148.0,145.0,Pune Warriors
+598010,Delhi Capitals,Sunrisers Hyderabad,114.0,115.0,Sunrisers Hyderabad
+598011,Mumbai Indians,Pune Warriors,183.0,142.0,Mumbai Indians
+598012,Chennai Super Kings,Royal Challengers Bangalore,166.0,165.0,Chennai Super Kings
+598013,Kolkata Knight Riders,Sunrisers Hyderabad,180.0,132.0,Kolkata Knight Riders
+598014,Punjab Kings,Rajasthan Royals,124.0,126.0,Rajasthan Royals
+598015,Chennai Super Kings,Pune Warriors,135.0,159.0,Pune Warriors
+598016,Kolkata Knight Riders,Punjab Kings,153.0,157.0,Punjab Kings
+598017,Delhi Capitals,Royal Challengers Bangalore,163.0,167.0,Royal Challengers Bangalore
+598018,Pune Warriors,Sunrisers Hyderabad,108.0,119.0,Sunrisers Hyderabad
+598019,Mumbai Indians,Rajasthan Royals,92.0,179.0,Rajasthan Royals
+598020,Chennai Super Kings,Delhi Capitals,169.0,83.0,Chennai Super Kings
+598021,Punjab Kings,Sunrisers Hyderabad,123.0,127.0,Sunrisers Hyderabad
+598022,Chennai Super Kings,Kolkata Knight Riders,124.0,119.0,Chennai Super Kings
+598023,Rajasthan Royals,Royal Challengers Bangalore,117.0,123.0,Royal Challengers Bangalore
+598024,Delhi Capitals,Mumbai Indians,165.0,161.0,Delhi Capitals
+598025,Pune Warriors,Punjab Kings,185.0,186.0,Punjab Kings
+598026,Chennai Super Kings,Rajasthan Royals,186.0,185.0,Chennai Super Kings
+598027,Pune Warriors,Royal Challengers Bangalore,133.0,263.0,Royal Challengers Bangalore
+598028,Delhi Capitals,Punjab Kings,164.0,171.0,Punjab Kings
+598029,Kolkata Knight Riders,Mumbai Indians,159.0,162.0,Mumbai Indians
+598030,Chennai Super Kings,Sunrisers Hyderabad,160.0,159.0,Chennai Super Kings
+598031,Kolkata Knight Riders,Punjab Kings,150.0,149.0,Kolkata Knight Riders
+598032,Rajasthan Royals,Sunrisers Hyderabad,146.0,144.0,Rajasthan Royals
+598033,Mumbai Indians,Royal Challengers Bangalore,194.0,136.0,Mumbai Indians
+598034,Chennai Super Kings,Kolkata Knight Riders,200.0,186.0,Chennai Super Kings
+598035,Delhi Capitals,Pune Warriors,164.0,149.0,Delhi Capitals
+598036,Rajasthan Royals,Royal Challengers Bangalore,173.0,171.0,Rajasthan Royals
+598037,Mumbai Indians,Punjab Kings,174.0,170.0,Mumbai Indians
+598038,Chennai Super Kings,Pune Warriors,164.0,127.0,Chennai Super Kings
+598039,Mumbai Indians,Sunrisers Hyderabad,129.0,130.0,Sunrisers Hyderabad
+598040,Delhi Capitals,Kolkata Knight Riders,137.0,136.0,Delhi Capitals
+598041,Chennai Super Kings,Punjab Kings,186.0,171.0,Chennai Super Kings
+598042,Pune Warriors,Royal Challengers Bangalore,170.0,187.0,Royal Challengers Bangalore
+598043,Kolkata Knight Riders,Rajasthan Royals,133.0,132.0,Kolkata Knight Riders
+598044,Delhi Capitals,Sunrisers Hyderabad,80.0,81.0,Sunrisers Hyderabad
+598045,Punjab Kings,Royal Challengers Bangalore,176.0,174.0,Punjab Kings
+598046,Chennai Super Kings,Mumbai Indians,79.0,139.0,Mumbai Indians
+598047,Pune Warriors,Rajasthan Royals,178.0,182.0,Rajasthan Royals
+598048,Royal Challengers Bangalore,Sunrisers Hyderabad,162.0,161.0,Royal Challengers Bangalore
+598049,Delhi Capitals,Rajasthan Royals,154.0,155.0,Rajasthan Royals
+598050,Kolkata Knight Riders,Mumbai Indians,105.0,170.0,Mumbai Indians
+598051,Chennai Super Kings,Sunrisers Hyderabad,223.0,146.0,Chennai Super Kings
+598052,Punjab Kings,Rajasthan Royals,145.0,147.0,Rajasthan Royals
+598053,Kolkata Knight Riders,Pune Warriors,152.0,106.0,Kolkata Knight Riders
+598054,Delhi Capitals,Royal Challengers Bangalore,179.0,183.0,Royal Challengers Bangalore
+598055,Mumbai Indians,Pune Warriors,116.0,112.0,Mumbai Indians
+598056,Punjab Kings,Sunrisers Hyderabad,120.0,150.0,Sunrisers Hyderabad
+598057,Kolkata Knight Riders,Royal Challengers Bangalore,116.0,115.0,Kolkata Knight Riders
+598058,Chennai Super Kings,Rajasthan Royals,141.0,144.0,Rajasthan Royals
+598059,Delhi Capitals,Punjab Kings,120.0,121.0,Punjab Kings
+598060,Mumbai Indians,Sunrisers Hyderabad,184.0,178.0,Mumbai Indians
+598061,Kolkata Knight Riders,Pune Warriors,163.0,170.0,Pune Warriors
+598062,Chennai Super Kings,Delhi Capitals,168.0,135.0,Chennai Super Kings
+598063,Mumbai Indians,Rajasthan Royals,166.0,152.0,Mumbai Indians
+598064,Punjab Kings,Royal Challengers Bangalore,194.0,190.0,Punjab Kings
+598065,Rajasthan Royals,Sunrisers Hyderabad,113.0,136.0,Sunrisers Hyderabad
+598066,Mumbai Indians,Punjab Kings,133.0,183.0,Punjab Kings
+598067,Delhi Capitals,Pune Warriors,134.0,172.0,Pune Warriors
+598068,Chennai Super Kings,Royal Challengers Bangalore,82.0,106.0,Royal Challengers Bangalore
+598069,Kolkata Knight Riders,Sunrisers Hyderabad,130.0,132.0,Sunrisers Hyderabad
+598070,Chennai Super Kings,Mumbai Indians,192.0,144.0,Chennai Super Kings
+598071,Rajasthan Royals,Sunrisers Hyderabad,135.0,132.0,Rajasthan Royals
+598072,Mumbai Indians,Rajasthan Royals,169.0,165.0,Mumbai Indians
+598073,Chennai Super Kings,Mumbai Indians,125.0,148.0,Mumbai Indians
+729279,Kolkata Knight Riders,Mumbai Indians,163.0,122.0,Kolkata Knight Riders
+729281,Delhi Capitals,Royal Challengers Bangalore,145.0,146.0,Royal Challengers Bangalore
+729283,Chennai Super Kings,Punjab Kings,205.0,206.0,Punjab Kings
+729285,Rajasthan Royals,Sunrisers Hyderabad,135.0,133.0,Rajasthan Royals
+729287,Mumbai Indians,Royal Challengers Bangalore,115.0,116.0,Royal Challengers Bangalore
+729289,Delhi Capitals,Kolkata Knight Riders,167.0,166.0,Delhi Capitals
+729291,Punjab Kings,Rajasthan Royals,193.0,191.0,Punjab Kings
+729293,Chennai Super Kings,Delhi Capitals,177.0,84.0,Chennai Super Kings
+729295,Punjab Kings,Sunrisers Hyderabad,193.0,121.0,Punjab Kings
+729297,Chennai Super Kings,Rajasthan Royals,140.0,133.0,Chennai Super Kings
+729299,Kolkata Knight Riders,Royal Challengers Bangalore,150.0,148.0,Kolkata Knight Riders
+729301,Delhi Capitals,Sunrisers Hyderabad,180.0,184.0,Sunrisers Hyderabad
+729303,Chennai Super Kings,Mumbai Indians,142.0,141.0,Chennai Super Kings
+729305,Rajasthan Royals,Royal Challengers Bangalore,71.0,70.0,Rajasthan Royals
+729307,Kolkata Knight Riders,Punjab Kings,109.0,132.0,Punjab Kings
+729309,Delhi Capitals,Mumbai Indians,126.0,125.0,Delhi Capitals
+729311,Chennai Super Kings,Sunrisers Hyderabad,146.0,145.0,Chennai Super Kings
+729313,Punjab Kings,Royal Challengers Bangalore,127.0,124.0,Punjab Kings
+729315,Kolkata Knight Riders,Rajasthan Royals,163.0,163.0,Rajasthan Royals
+729317,Mumbai Indians,Sunrisers Hyderabad,157.0,172.0,Sunrisers Hyderabad
+733971,Chennai Super Kings,Kolkata Knight Riders,148.0,114.0,Chennai Super Kings
+733973,Mumbai Indians,Punjab Kings,170.0,168.0,Mumbai Indians
+733975,Delhi Capitals,Rajasthan Royals,152.0,156.0,Rajasthan Royals
+733977,Royal Challengers Bangalore,Sunrisers Hyderabad,158.0,155.0,Royal Challengers Bangalore
+733979,Kolkata Knight Riders,Rajasthan Royals,160.0,170.0,Rajasthan Royals
+733981,Chennai Super Kings,Delhi Capitals,181.0,178.0,Chennai Super Kings
+733983,Mumbai Indians,Royal Challengers Bangalore,187.0,168.0,Mumbai Indians
+733985,Delhi Capitals,Kolkata Knight Riders,160.0,161.0,Kolkata Knight Riders
+733987,Chennai Super Kings,Punjab Kings,187.0,231.0,Punjab Kings
+733989,Rajasthan Royals,Sunrisers Hyderabad,102.0,134.0,Sunrisers Hyderabad
+733991,Punjab Kings,Royal Challengers Bangalore,198.0,166.0,Punjab Kings
+733993,Delhi Capitals,Sunrisers Hyderabad,143.0,44.0,Delhi Capitals
+733995,Chennai Super Kings,Mumbai Indians,160.0,157.0,Chennai Super Kings
+733997,Kolkata Knight Riders,Punjab Kings,150.0,149.0,Kolkata Knight Riders
+733999,Rajasthan Royals,Royal Challengers Bangalore,191.0,190.0,Rajasthan Royals
+734001,Mumbai Indians,Sunrisers Hyderabad,160.0,157.0,Mumbai Indians
+734003,Chennai Super Kings,Rajasthan Royals,149.0,148.0,Chennai Super Kings
+734005,Delhi Capitals,Royal Challengers Bangalore,170.0,186.0,Royal Challengers Bangalore
+734007,Punjab Kings,Sunrisers Hyderabad,211.0,205.0,Punjab Kings
+734009,Kolkata Knight Riders,Mumbai Indians,142.0,141.0,Kolkata Knight Riders
+734011,Delhi Capitals,Rajasthan Royals,139.0,201.0,Rajasthan Royals
+734013,Chennai Super Kings,Royal Challengers Bangalore,138.0,142.0,Royal Challengers Bangalore
+734015,Kolkata Knight Riders,Sunrisers Hyderabad,146.0,142.0,Kolkata Knight Riders
+734017,Mumbai Indians,Rajasthan Royals,178.0,153.0,Mumbai Indians
+734019,Delhi Capitals,Punjab Kings,164.0,165.0,Punjab Kings
+734021,Royal Challengers Bangalore,Sunrisers Hyderabad,160.0,161.0,Sunrisers Hyderabad
+734023,Chennai Super Kings,Kolkata Knight Riders,154.0,156.0,Kolkata Knight Riders
+734025,Mumbai Indians,Punjab Kings,159.0,156.0,Mumbai Indians
+734027,Kolkata Knight Riders,Royal Challengers Bangalore,195.0,165.0,Kolkata Knight Riders
+734029,Chennai Super Kings,Sunrisers Hyderabad,185.0,189.0,Sunrisers Hyderabad
+734031,Delhi Capitals,Mumbai Indians,158.0,173.0,Mumbai Indians
+734033,Punjab Kings,Rajasthan Royals,179.0,163.0,Punjab Kings
+734035,Chennai Super Kings,Royal Challengers Bangalore,160.0,154.0,Chennai Super Kings
+734037,Kolkata Knight Riders,Sunrisers Hyderabad,161.0,160.0,Kolkata Knight Riders
+734039,Delhi Capitals,Punjab Kings,115.0,119.0,Punjab Kings
+734041,Mumbai Indians,Rajasthan Royals,195.0,189.0,Mumbai Indians
+734043,Kolkata Knight Riders,Punjab Kings,163.0,135.0,Kolkata Knight Riders
+734045,Chennai Super Kings,Mumbai Indians,176.0,173.0,Chennai Super Kings
+734047,Chennai Super Kings,Punjab Kings,202.0,226.0,Punjab Kings
+734049,Kolkata Knight Riders,Punjab Kings,200.0,199.0,Kolkata Knight Riders
+829705,Kolkata Knight Riders,Mumbai Indians,170.0,168.0,Kolkata Knight Riders
+829707,Chennai Super Kings,Delhi Capitals,150.0,149.0,Chennai Super Kings
+829709,Punjab Kings,Rajasthan Royals,136.0,162.0,Rajasthan Royals
+829711,Chennai Super Kings,Sunrisers Hyderabad,209.0,164.0,Chennai Super Kings
+829713,Kolkata Knight Riders,Royal Challengers Bangalore,177.0,179.0,Royal Challengers Bangalore
+829715,Delhi Capitals,Rajasthan Royals,184.0,186.0,Rajasthan Royals
+829717,Mumbai Indians,Punjab Kings,159.0,177.0,Punjab Kings
+829719,Royal Challengers Bangalore,Sunrisers Hyderabad,166.0,172.0,Sunrisers Hyderabad
+829721,Mumbai Indians,Rajasthan Royals,164.0,165.0,Rajasthan Royals
+829723,Chennai Super Kings,Kolkata Knight Riders,165.0,169.0,Kolkata Knight Riders
+829725,Delhi Capitals,Punjab Kings,169.0,165.0,Delhi Capitals
+829727,Rajasthan Royals,Sunrisers Hyderabad,131.0,127.0,Rajasthan Royals
+829729,Chennai Super Kings,Mumbai Indians,189.0,183.0,Chennai Super Kings
+829731,Delhi Capitals,Sunrisers Hyderabad,167.0,163.0,Delhi Capitals
+829733,Kolkata Knight Riders,Punjab Kings,159.0,155.0,Kolkata Knight Riders
+829735,Chennai Super Kings,Rajasthan Royals,156.0,157.0,Rajasthan Royals
+829737,Mumbai Indians,Royal Challengers Bangalore,209.0,191.0,Mumbai Indians
+829739,Delhi Capitals,Kolkata Knight Riders,146.0,147.0,Kolkata Knight Riders
+829741,Punjab Kings,Rajasthan Royals,206.0,197.0,Punjab Kings
+829743,Kolkata Knight Riders,Sunrisers Hyderabad,101.0,176.0,Sunrisers Hyderabad
+829745,Chennai Super Kings,Royal Challengers Bangalore,181.0,154.0,Chennai Super Kings
+829747,Delhi Capitals,Mumbai Indians,190.0,153.0,Delhi Capitals
+829749,Rajasthan Royals,Royal Challengers Bangalore,130.0,134.0,Royal Challengers Bangalore
+829751,Mumbai Indians,Sunrisers Hyderabad,157.0,137.0,Mumbai Indians
+829753,Chennai Super Kings,Punjab Kings,192.0,95.0,Chennai Super Kings
+829757,Delhi Capitals,Royal Challengers Bangalore,95.0,99.0,Royal Challengers Bangalore
+829759,Punjab Kings,Sunrisers Hyderabad,130.0,150.0,Sunrisers Hyderabad
+829761,Delhi Capitals,Kolkata Knight Riders,158.0,171.0,Kolkata Knight Riders
+829765,Chennai Super Kings,Kolkata Knight Riders,134.0,132.0,Chennai Super Kings
+829767,Delhi Capitals,Punjab Kings,119.0,118.0,Delhi Capitals
+829769,Mumbai Indians,Rajasthan Royals,187.0,179.0,Mumbai Indians
+829771,Kolkata Knight Riders,Royal Challengers Bangalore,111.0,115.0,Royal Challengers Bangalore
+829773,Chennai Super Kings,Sunrisers Hyderabad,170.0,192.0,Sunrisers Hyderabad
+829775,Mumbai Indians,Punjab Kings,172.0,149.0,Mumbai Indians
+829777,Delhi Capitals,Rajasthan Royals,175.0,189.0,Rajasthan Royals
+829779,Chennai Super Kings,Royal Challengers Bangalore,148.0,124.0,Chennai Super Kings
+829781,Kolkata Knight Riders,Sunrisers Hyderabad,167.0,132.0,Kolkata Knight Riders
+829783,Delhi Capitals,Mumbai Indians,152.0,153.0,Mumbai Indians
+829785,Punjab Kings,Royal Challengers Bangalore,88.0,226.0,Royal Challengers Bangalore
+829787,Rajasthan Royals,Sunrisers Hyderabad,194.0,201.0,Sunrisers Hyderabad
+829789,Chennai Super Kings,Mumbai Indians,158.0,159.0,Mumbai Indians
+829791,Kolkata Knight Riders,Punjab Kings,184.0,183.0,Kolkata Knight Riders
+829793,Delhi Capitals,Sunrisers Hyderabad,157.0,163.0,Sunrisers Hyderabad
+829795,Mumbai Indians,Royal Challengers Bangalore,196.0,235.0,Royal Challengers Bangalore
+829797,Chennai Super Kings,Rajasthan Royals,157.0,145.0,Chennai Super Kings
+829799,Punjab Kings,Sunrisers Hyderabad,180.0,185.0,Sunrisers Hyderabad
+829801,Chennai Super Kings,Delhi Capitals,119.0,120.0,Delhi Capitals
+829803,Punjab Kings,Royal Challengers Bangalore,106.0,84.0,Punjab Kings
+829805,Kolkata Knight Riders,Mumbai Indians,166.0,171.0,Mumbai Indians
+829807,Royal Challengers Bangalore,Sunrisers Hyderabad,83.0,135.0,Sunrisers Hyderabad
+829809,Chennai Super Kings,Punjab Kings,134.0,130.0,Chennai Super Kings
+829811,Kolkata Knight Riders,Rajasthan Royals,190.0,199.0,Rajasthan Royals
+829813,Delhi Capitals,Royal Challengers Bangalore,187.0,2.0,Delhi Capitals
+829815,Mumbai Indians,Sunrisers Hyderabad,114.0,113.0,Mumbai Indians
+829817,Chennai Super Kings,Mumbai Indians,162.0,187.0,Mumbai Indians
+829819,Rajasthan Royals,Royal Challengers Bangalore,109.0,180.0,Royal Challengers Bangalore
+829821,Chennai Super Kings,Royal Challengers Bangalore,140.0,139.0,Chennai Super Kings
+829823,Chennai Super Kings,Mumbai Indians,161.0,202.0,Mumbai Indians
+980901,Mumbai Indians,Rising Pune Supergiants,121.0,126.0,Rising Pune Supergiants
+980903,Delhi Capitals,Kolkata Knight Riders,98.0,99.0,Kolkata Knight Riders
+980905,Gujarat Lions,Punjab Kings,162.0,161.0,Gujarat Lions
+980907,Royal Challengers Bangalore,Sunrisers Hyderabad,227.0,182.0,Royal Challengers Bangalore
+980909,Kolkata Knight Riders,Mumbai Indians,187.0,188.0,Mumbai Indians
+980911,Gujarat Lions,Rising Pune Supergiants,164.0,163.0,Gujarat Lions
+980913,Delhi Capitals,Punjab Kings,113.0,111.0,Delhi Capitals
+980915,Kolkata Knight Riders,Sunrisers Hyderabad,146.0,142.0,Kolkata Knight Riders
+980917,Gujarat Lions,Mumbai Indians,147.0,143.0,Gujarat Lions
+980919,Punjab Kings,Rising Pune Supergiants,153.0,152.0,Punjab Kings
+980921,Delhi Capitals,Royal Challengers Bangalore,192.0,191.0,Delhi Capitals
+980923,Mumbai Indians,Sunrisers Hyderabad,142.0,145.0,Sunrisers Hyderabad
+980925,Kolkata Knight Riders,Punjab Kings,141.0,138.0,Kolkata Knight Riders
+980927,Mumbai Indians,Royal Challengers Bangalore,171.0,170.0,Mumbai Indians
+980929,Gujarat Lions,Sunrisers Hyderabad,135.0,137.0,Sunrisers Hyderabad
+980931,Rising Pune Supergiants,Royal Challengers Bangalore,172.0,185.0,Royal Challengers Bangalore
+980933,Delhi Capitals,Mumbai Indians,164.0,154.0,Delhi Capitals
+980935,Punjab Kings,Sunrisers Hyderabad,143.0,146.0,Sunrisers Hyderabad
+980937,Gujarat Lions,Royal Challengers Bangalore,182.0,180.0,Gujarat Lions
+980939,Kolkata Knight Riders,Rising Pune Supergiants,162.0,160.0,Kolkata Knight Riders
+980941,Mumbai Indians,Punjab Kings,189.0,164.0,Mumbai Indians
+980943,Rising Pune Supergiants,Sunrisers Hyderabad,94.0,118.0,Sunrisers Hyderabad
+980945,Delhi Capitals,Gujarat Lions,171.0,172.0,Gujarat Lions
+980947,Kolkata Knight Riders,Mumbai Indians,174.0,178.0,Mumbai Indians
+980949,Gujarat Lions,Rising Pune Supergiants,196.0,195.0,Gujarat Lions
+980951,Delhi Capitals,Kolkata Knight Riders,186.0,159.0,Delhi Capitals
+980953,Royal Challengers Bangalore,Sunrisers Hyderabad,179.0,194.0,Sunrisers Hyderabad
+980955,Gujarat Lions,Punjab Kings,131.0,154.0,Punjab Kings
+980957,Mumbai Indians,Rising Pune Supergiants,161.0,159.0,Mumbai Indians
+980959,Kolkata Knight Riders,Royal Challengers Bangalore,189.0,185.0,Kolkata Knight Riders
+980961,Delhi Capitals,Gujarat Lions,150.0,149.0,Delhi Capitals
+980963,Kolkata Knight Riders,Punjab Kings,164.0,157.0,Kolkata Knight Riders
+980965,Delhi Capitals,Rising Pune Supergiants,162.0,166.0,Rising Pune Supergiants
+980967,Gujarat Lions,Sunrisers Hyderabad,126.0,129.0,Sunrisers Hyderabad
+980969,Rising Pune Supergiants,Royal Challengers Bangalore,191.0,195.0,Royal Challengers Bangalore
+980971,Delhi Capitals,Punjab Kings,172.0,181.0,Punjab Kings
+980973,Mumbai Indians,Sunrisers Hyderabad,92.0,177.0,Sunrisers Hyderabad
+980975,Gujarat Lions,Kolkata Knight Riders,164.0,158.0,Gujarat Lions
+980977,Punjab Kings,Royal Challengers Bangalore,174.0,175.0,Royal Challengers Bangalore
+980979,Rising Pune Supergiants,Sunrisers Hyderabad,133.0,137.0,Sunrisers Hyderabad
+980981,Mumbai Indians,Royal Challengers Bangalore,153.0,151.0,Mumbai Indians
+980983,Delhi Capitals,Sunrisers Hyderabad,150.0,146.0,Delhi Capitals
+980985,Mumbai Indians,Punjab Kings,124.0,127.0,Punjab Kings
+980987,Gujarat Lions,Royal Challengers Bangalore,104.0,248.0,Royal Challengers Bangalore
+980989,Kolkata Knight Riders,Rising Pune Supergiants,66.0,103.0,Rising Pune Supergiants
+980991,Punjab Kings,Sunrisers Hyderabad,179.0,180.0,Sunrisers Hyderabad
+980993,Delhi Capitals,Mumbai Indians,126.0,206.0,Mumbai Indians
+980995,Kolkata Knight Riders,Royal Challengers Bangalore,183.0,186.0,Royal Challengers Bangalore
+980997,Delhi Capitals,Rising Pune Supergiants,121.0,76.0,Delhi Capitals
+980999,Punjab Kings,Royal Challengers Bangalore,120.0,211.0,Royal Challengers Bangalore
+981001,Gujarat Lions,Kolkata Knight Riders,125.0,124.0,Gujarat Lions
+981003,Delhi Capitals,Sunrisers Hyderabad,161.0,158.0,Delhi Capitals
+981005,Punjab Kings,Rising Pune Supergiants,172.0,173.0,Rising Pune Supergiants
+981007,Gujarat Lions,Mumbai Indians,173.0,172.0,Gujarat Lions
+981009,Kolkata Knight Riders,Sunrisers Hyderabad,171.0,149.0,Kolkata Knight Riders
+981011,Delhi Capitals,Royal Challengers Bangalore,138.0,139.0,Royal Challengers Bangalore
+981013,Gujarat Lions,Royal Challengers Bangalore,158.0,159.0,Royal Challengers Bangalore
+981015,Kolkata Knight Riders,Sunrisers Hyderabad,140.0,162.0,Sunrisers Hyderabad
+981017,Gujarat Lions,Sunrisers Hyderabad,162.0,163.0,Sunrisers Hyderabad
+981019,Royal Challengers Bangalore,Sunrisers Hyderabad,200.0,208.0,Sunrisers Hyderabad
+1082591,Royal Challengers Bangalore,Sunrisers Hyderabad,172.0,207.0,Sunrisers Hyderabad
+1082592,Mumbai Indians,Rising Pune Supergiant,184.0,187.0,Rising Pune Supergiant
+1082593,Gujarat Lions,Kolkata Knight Riders,183.0,184.0,Kolkata Knight Riders
+1082594,Punjab Kings,Rising Pune Supergiant,164.0,163.0,Punjab Kings
+1082595,Delhi Capitals,Royal Challengers Bangalore,142.0,157.0,Royal Challengers Bangalore
+1082596,Gujarat Lions,Sunrisers Hyderabad,135.0,140.0,Sunrisers Hyderabad
+1082597,Kolkata Knight Riders,Mumbai Indians,178.0,180.0,Mumbai Indians
+1082598,Punjab Kings,Royal Challengers Bangalore,150.0,148.0,Punjab Kings
+1082599,Delhi Capitals,Rising Pune Supergiant,205.0,108.0,Delhi Capitals
+1082600,Mumbai Indians,Sunrisers Hyderabad,159.0,158.0,Mumbai Indians
+1082601,Kolkata Knight Riders,Punjab Kings,171.0,170.0,Kolkata Knight Riders
+1082602,Mumbai Indians,Royal Challengers Bangalore,145.0,142.0,Mumbai Indians
+1082603,Gujarat Lions,Rising Pune Supergiant,172.0,171.0,Gujarat Lions
+1082604,Kolkata Knight Riders,Sunrisers Hyderabad,172.0,155.0,Kolkata Knight Riders
+1082605,Delhi Capitals,Punjab Kings,188.0,137.0,Delhi Capitals
+1082606,Gujarat Lions,Mumbai Indians,176.0,177.0,Mumbai Indians
+1082607,Rising Pune Supergiant,Royal Challengers Bangalore,161.0,134.0,Rising Pune Supergiant
+1082608,Delhi Capitals,Kolkata Knight Riders,168.0,169.0,Kolkata Knight Riders
+1082609,Punjab Kings,Sunrisers Hyderabad,154.0,159.0,Sunrisers Hyderabad
+1082610,Gujarat Lions,Royal Challengers Bangalore,192.0,213.0,Royal Challengers Bangalore
+1082611,Delhi Capitals,Sunrisers Hyderabad,176.0,191.0,Sunrisers Hyderabad
+1082612,Mumbai Indians,Punjab Kings,199.0,198.0,Mumbai Indians
+1082613,Gujarat Lions,Kolkata Knight Riders,188.0,187.0,Gujarat Lions
+1082614,Delhi Capitals,Mumbai Indians,128.0,142.0,Mumbai Indians
+1082615,Rising Pune Supergiant,Sunrisers Hyderabad,179.0,176.0,Rising Pune Supergiant
+1082616,Gujarat Lions,Punjab Kings,162.0,188.0,Punjab Kings
+1082617,Kolkata Knight Riders,Royal Challengers Bangalore,131.0,49.0,Kolkata Knight Riders
+1082618,Mumbai Indians,Rising Pune Supergiant,157.0,160.0,Rising Pune Supergiant
+1082620,Kolkata Knight Riders,Rising Pune Supergiant,184.0,182.0,Kolkata Knight Riders
+1082621,Gujarat Lions,Royal Challengers Bangalore,135.0,134.0,Gujarat Lions
+1082622,Delhi Capitals,Kolkata Knight Riders,160.0,161.0,Kolkata Knight Riders
+1082623,Punjab Kings,Sunrisers Hyderabad,181.0,207.0,Sunrisers Hyderabad
+1082624,Rising Pune Supergiant,Royal Challengers Bangalore,157.0,96.0,Rising Pune Supergiant
+1082625,Gujarat Lions,Mumbai Indians,159.0,164.0,Mumbai Indians
+1082626,Delhi Capitals,Punjab Kings,67.0,68.0,Punjab Kings
+1082627,Kolkata Knight Riders,Sunrisers Hyderabad,161.0,209.0,Sunrisers Hyderabad
+1082628,Mumbai Indians,Royal Challengers Bangalore,165.0,162.0,Mumbai Indians
+1082629,Gujarat Lions,Rising Pune Supergiant,161.0,167.0,Rising Pune Supergiant
+1082630,Delhi Capitals,Sunrisers Hyderabad,189.0,185.0,Delhi Capitals
+1082631,Kolkata Knight Riders,Rising Pune Supergiant,155.0,158.0,Rising Pune Supergiant
+1082632,Delhi Capitals,Gujarat Lions,214.0,208.0,Delhi Capitals
+1082633,Punjab Kings,Royal Challengers Bangalore,138.0,119.0,Punjab Kings
+1082634,Rising Pune Supergiant,Sunrisers Hyderabad,148.0,136.0,Rising Pune Supergiant
+1082635,Delhi Capitals,Mumbai Indians,66.0,212.0,Mumbai Indians
+1082636,Kolkata Knight Riders,Royal Challengers Bangalore,159.0,158.0,Kolkata Knight Riders
+1082637,Gujarat Lions,Punjab Kings,192.0,189.0,Gujarat Lions
+1082638,Mumbai Indians,Sunrisers Hyderabad,138.0,140.0,Sunrisers Hyderabad
+1082639,Kolkata Knight Riders,Punjab Kings,153.0,167.0,Punjab Kings
+1082640,Delhi Capitals,Gujarat Lions,197.0,195.0,Delhi Capitals
+1082641,Mumbai Indians,Punjab Kings,223.0,230.0,Punjab Kings
+1082642,Delhi Capitals,Rising Pune Supergiant,168.0,161.0,Delhi Capitals
+1082643,Gujarat Lions,Sunrisers Hyderabad,154.0,158.0,Sunrisers Hyderabad
+1082644,Kolkata Knight Riders,Mumbai Indians,164.0,173.0,Mumbai Indians
+1082645,Punjab Kings,Rising Pune Supergiant,73.0,78.0,Rising Pune Supergiant
+1082646,Delhi Capitals,Royal Challengers Bangalore,151.0,161.0,Royal Challengers Bangalore
+1082647,Mumbai Indians,Rising Pune Supergiant,142.0,162.0,Rising Pune Supergiant
+1082648,Kolkata Knight Riders,Sunrisers Hyderabad,48.0,128.0,Sunrisers Hyderabad
+1082649,Kolkata Knight Riders,Mumbai Indians,107.0,111.0,Mumbai Indians
+1082650,Mumbai Indians,Rising Pune Supergiant,129.0,128.0,Mumbai Indians
+1136561,Chennai Super Kings,Mumbai Indians,169.0,165.0,Chennai Super Kings
+1136562,Delhi Capitals,Punjab Kings,166.0,167.0,Punjab Kings
+1136563,Kolkata Knight Riders,Royal Challengers Bangalore,177.0,176.0,Kolkata Knight Riders
+1136564,Rajasthan Royals,Sunrisers Hyderabad,125.0,127.0,Sunrisers Hyderabad
+1136565,Chennai Super Kings,Kolkata Knight Riders,205.0,202.0,Chennai Super Kings
+1136566,Delhi Capitals,Rajasthan Royals,60.0,153.0,Rajasthan Royals
+1136567,Mumbai Indians,Sunrisers Hyderabad,147.0,151.0,Sunrisers Hyderabad
+1136568,Punjab Kings,Royal Challengers Bangalore,155.0,159.0,Royal Challengers Bangalore
+1136569,Delhi Capitals,Mumbai Indians,195.0,194.0,Delhi Capitals
+1136570,Kolkata Knight Riders,Sunrisers Hyderabad,138.0,139.0,Sunrisers Hyderabad
+1136571,Rajasthan Royals,Royal Challengers Bangalore,217.0,198.0,Rajasthan Royals
+1136572,Chennai Super Kings,Punjab Kings,193.0,197.0,Punjab Kings
+1136573,Delhi Capitals,Kolkata Knight Riders,129.0,200.0,Kolkata Knight Riders
+1136574,Mumbai Indians,Royal Challengers Bangalore,213.0,167.0,Mumbai Indians
+1136575,Kolkata Knight Riders,Rajasthan Royals,163.0,160.0,Kolkata Knight Riders
+1136576,Punjab Kings,Sunrisers Hyderabad,193.0,178.0,Punjab Kings
+1136577,Chennai Super Kings,Rajasthan Royals,204.0,140.0,Chennai Super Kings
+1136578,Kolkata Knight Riders,Punjab Kings,191.0,126.0,Kolkata Knight Riders
+1136579,Delhi Capitals,Royal Challengers Bangalore,174.0,176.0,Royal Challengers Bangalore
+1136580,Chennai Super Kings,Sunrisers Hyderabad,182.0,178.0,Chennai Super Kings
+1136581,Mumbai Indians,Rajasthan Royals,167.0,168.0,Rajasthan Royals
+1136582,Delhi Capitals,Punjab Kings,139.0,143.0,Punjab Kings
+1136583,Mumbai Indians,Sunrisers Hyderabad,87.0,118.0,Sunrisers Hyderabad
+1136584,Chennai Super Kings,Royal Challengers Bangalore,207.0,205.0,Chennai Super Kings
+1136585,Punjab Kings,Sunrisers Hyderabad,119.0,132.0,Sunrisers Hyderabad
+1136586,Delhi Capitals,Kolkata Knight Riders,219.0,164.0,Delhi Capitals
+1136587,Chennai Super Kings,Mumbai Indians,169.0,170.0,Mumbai Indians
+1136588,Rajasthan Royals,Sunrisers Hyderabad,140.0,151.0,Sunrisers Hyderabad
+1136589,Kolkata Knight Riders,Royal Challengers Bangalore,176.0,175.0,Kolkata Knight Riders
+1136590,Chennai Super Kings,Delhi Capitals,211.0,198.0,Chennai Super Kings
+1136591,Mumbai Indians,Royal Challengers Bangalore,153.0,167.0,Royal Challengers Bangalore
+1136592,Delhi Capitals,Rajasthan Royals,196.0,146.0,Delhi Capitals
+1136593,Chennai Super Kings,Kolkata Knight Riders,177.0,180.0,Kolkata Knight Riders
+1136594,Mumbai Indians,Punjab Kings,176.0,174.0,Mumbai Indians
+1136595,Chennai Super Kings,Royal Challengers Bangalore,128.0,127.0,Chennai Super Kings
+1136596,Delhi Capitals,Sunrisers Hyderabad,163.0,164.0,Sunrisers Hyderabad
+1136597,Kolkata Knight Riders,Mumbai Indians,168.0,181.0,Mumbai Indians
+1136598,Punjab Kings,Rajasthan Royals,155.0,152.0,Punjab Kings
+1136599,Royal Challengers Bangalore,Sunrisers Hyderabad,141.0,146.0,Sunrisers Hyderabad
+1136600,Punjab Kings,Rajasthan Royals,143.0,158.0,Rajasthan Royals
+1136601,Kolkata Knight Riders,Mumbai Indians,108.0,210.0,Mumbai Indians
+1136602,Delhi Capitals,Sunrisers Hyderabad,187.0,191.0,Sunrisers Hyderabad
+1136603,Chennai Super Kings,Rajasthan Royals,176.0,177.0,Rajasthan Royals
+1136604,Kolkata Knight Riders,Punjab Kings,245.0,214.0,Kolkata Knight Riders
+1136605,Delhi Capitals,Royal Challengers Bangalore,181.0,187.0,Royal Challengers Bangalore
+1136606,Chennai Super Kings,Sunrisers Hyderabad,180.0,179.0,Chennai Super Kings
+1136607,Mumbai Indians,Rajasthan Royals,168.0,171.0,Rajasthan Royals
+1136608,Punjab Kings,Royal Challengers Bangalore,88.0,92.0,Royal Challengers Bangalore
+1136609,Kolkata Knight Riders,Rajasthan Royals,145.0,142.0,Kolkata Knight Riders
+1136610,Mumbai Indians,Punjab Kings,186.0,183.0,Mumbai Indians
+1136611,Royal Challengers Bangalore,Sunrisers Hyderabad,218.0,204.0,Royal Challengers Bangalore
+1136612,Chennai Super Kings,Delhi Capitals,128.0,162.0,Delhi Capitals
+1136613,Rajasthan Royals,Royal Challengers Bangalore,164.0,134.0,Rajasthan Royals
+1136614,Kolkata Knight Riders,Sunrisers Hyderabad,173.0,172.0,Kolkata Knight Riders
+1136615,Delhi Capitals,Mumbai Indians,174.0,163.0,Delhi Capitals
+1136616,Chennai Super Kings,Punjab Kings,159.0,153.0,Chennai Super Kings
+1136617,Chennai Super Kings,Sunrisers Hyderabad,140.0,139.0,Chennai Super Kings
+1136618,Kolkata Knight Riders,Rajasthan Royals,169.0,144.0,Kolkata Knight Riders
+1136619,Kolkata Knight Riders,Sunrisers Hyderabad,160.0,174.0,Sunrisers Hyderabad
+1136620,Chennai Super Kings,Sunrisers Hyderabad,181.0,178.0,Chennai Super Kings
+1175356,Chennai Super Kings,Royal Challengers Bangalore,71.0,70.0,Chennai Super Kings
+1175357,Kolkata Knight Riders,Sunrisers Hyderabad,183.0,181.0,Kolkata Knight Riders
+1175358,Delhi Capitals,Mumbai Indians,213.0,176.0,Delhi Capitals
+1175359,Punjab Kings,Rajasthan Royals,184.0,170.0,Punjab Kings
+1175360,Chennai Super Kings,Delhi Capitals,150.0,147.0,Chennai Super Kings
+1175361,Kolkata Knight Riders,Punjab Kings,218.0,190.0,Kolkata Knight Riders
+1175362,Mumbai Indians,Royal Challengers Bangalore,187.0,181.0,Mumbai Indians
+1175363,Rajasthan Royals,Sunrisers Hyderabad,198.0,201.0,Sunrisers Hyderabad
+1175364,Mumbai Indians,Punjab Kings,176.0,177.0,Punjab Kings
+1175365,Delhi Capitals,Kolkata Knight Riders,195.0,192.0,Delhi Capitals
+1175366,Royal Challengers Bangalore,Sunrisers Hyderabad,113.0,231.0,Sunrisers Hyderabad
+1175367,Chennai Super Kings,Rajasthan Royals,175.0,167.0,Chennai Super Kings
+1175368,Delhi Capitals,Punjab Kings,152.0,166.0,Punjab Kings
+1175369,Rajasthan Royals,Royal Challengers Bangalore,164.0,158.0,Rajasthan Royals
+1175370,Chennai Super Kings,Mumbai Indians,133.0,170.0,Mumbai Indians
+1175371,Delhi Capitals,Sunrisers Hyderabad,129.0,131.0,Sunrisers Hyderabad
+1175372,Kolkata Knight Riders,Royal Challengers Bangalore,206.0,205.0,Kolkata Knight Riders
+1178393,Chennai Super Kings,Punjab Kings,160.0,138.0,Chennai Super Kings
+1178394,Mumbai Indians,Sunrisers Hyderabad,136.0,96.0,Mumbai Indians
+1178395,Delhi Capitals,Royal Challengers Bangalore,152.0,149.0,Delhi Capitals
+1178396,Kolkata Knight Riders,Rajasthan Royals,140.0,139.0,Kolkata Knight Riders
+1178397,Punjab Kings,Sunrisers Hyderabad,151.0,150.0,Punjab Kings
+1178398,Chennai Super Kings,Kolkata Knight Riders,111.0,108.0,Chennai Super Kings
+1178399,Mumbai Indians,Punjab Kings,198.0,197.0,Mumbai Indians
+1178400,Chennai Super Kings,Rajasthan Royals,155.0,151.0,Chennai Super Kings
+1178401,Delhi Capitals,Kolkata Knight Riders,180.0,178.0,Delhi Capitals
+1178402,Mumbai Indians,Rajasthan Royals,187.0,188.0,Rajasthan Royals
+1178403,Punjab Kings,Royal Challengers Bangalore,173.0,174.0,Royal Challengers Bangalore
+1178404,Chennai Super Kings,Kolkata Knight Riders,162.0,161.0,Chennai Super Kings
+1178405,Delhi Capitals,Sunrisers Hyderabad,155.0,116.0,Delhi Capitals
+1178406,Mumbai Indians,Royal Challengers Bangalore,172.0,171.0,Mumbai Indians
+1178407,Punjab Kings,Rajasthan Royals,182.0,170.0,Punjab Kings
+1178408,Chennai Super Kings,Sunrisers Hyderabad,132.0,137.0,Sunrisers Hyderabad
+1178409,Delhi Capitals,Mumbai Indians,128.0,168.0,Mumbai Indians
+1178410,Kolkata Knight Riders,Royal Challengers Bangalore,203.0,213.0,Royal Challengers Bangalore
+1178411,Mumbai Indians,Rajasthan Royals,161.0,162.0,Rajasthan Royals
+1178412,Delhi Capitals,Punjab Kings,166.0,163.0,Delhi Capitals
+1178413,Kolkata Knight Riders,Sunrisers Hyderabad,159.0,161.0,Sunrisers Hyderabad
+1178414,Chennai Super Kings,Royal Challengers Bangalore,160.0,161.0,Royal Challengers Bangalore
+1178415,Delhi Capitals,Rajasthan Royals,193.0,191.0,Delhi Capitals
+1178416,Chennai Super Kings,Sunrisers Hyderabad,176.0,175.0,Chennai Super Kings
+1178417,Punjab Kings,Royal Challengers Bangalore,185.0,202.0,Royal Challengers Bangalore
+1178418,Kolkata Knight Riders,Rajasthan Royals,175.0,177.0,Rajasthan Royals
+1178419,Chennai Super Kings,Mumbai Indians,109.0,155.0,Mumbai Indians
+1178420,Rajasthan Royals,Sunrisers Hyderabad,161.0,160.0,Rajasthan Royals
+1178421,Delhi Capitals,Royal Challengers Bangalore,187.0,171.0,Delhi Capitals
+1178422,Kolkata Knight Riders,Mumbai Indians,232.0,198.0,Kolkata Knight Riders
+1178423,Punjab Kings,Sunrisers Hyderabad,167.0,212.0,Sunrisers Hyderabad
+1178424,Rajasthan Royals,Royal Challengers Bangalore,41.0,62.0,Royal Challengers Bangalore
+1178425,Chennai Super Kings,Delhi Capitals,179.0,99.0,Chennai Super Kings
+1178426,Mumbai Indians,Sunrisers Hyderabad,171.0,170.0,Mumbai Indians
+1178427,Kolkata Knight Riders,Punjab Kings,185.0,183.0,Kolkata Knight Riders
+1178428,Delhi Capitals,Rajasthan Royals,121.0,115.0,Delhi Capitals
+1178429,Royal Challengers Bangalore,Sunrisers Hyderabad,178.0,175.0,Royal Challengers Bangalore
+1178430,Chennai Super Kings,Punjab Kings,170.0,173.0,Punjab Kings
+1178431,Kolkata Knight Riders,Mumbai Indians,133.0,134.0,Mumbai Indians
+1181764,Chennai Super Kings,Mumbai Indians,131.0,132.0,Mumbai Indians
+1181766,Delhi Capitals,Sunrisers Hyderabad,165.0,162.0,Delhi Capitals
+1181767,Chennai Super Kings,Delhi Capitals,151.0,147.0,Chennai Super Kings
+1181768,Chennai Super Kings,Mumbai Indians,148.0,149.0,Mumbai Indians
+1216492,Chennai Super Kings,Mumbai Indians,166.0,162.0,Chennai Super Kings
+1216493,Delhi Capitals,Punjab Kings,160.0,159.0,Delhi Capitals
+1216494,Kolkata Knight Riders,Royal Challengers Bangalore,84.0,85.0,Royal Challengers Bangalore
+1216495,Mumbai Indians,Sunrisers Hyderabad,149.0,151.0,Sunrisers Hyderabad
+1216496,Chennai Super Kings,Rajasthan Royals,200.0,216.0,Rajasthan Royals
+1216497,Delhi Capitals,Kolkata Knight Riders,135.0,194.0,Kolkata Knight Riders
+1216498,Punjab Kings,Sunrisers Hyderabad,126.0,114.0,Punjab Kings
+1216499,Mumbai Indians,Royal Challengers Bangalore,166.0,164.0,Mumbai Indians
+1216500,Delhi Capitals,Rajasthan Royals,184.0,138.0,Delhi Capitals
+1216501,Chennai Super Kings,Kolkata Knight Riders,157.0,167.0,Kolkata Knight Riders
+1216502,Royal Challengers Bangalore,Sunrisers Hyderabad,120.0,121.0,Sunrisers Hyderabad
+1216503,Mumbai Indians,Punjab Kings,191.0,143.0,Mumbai Indians
+1216504,Kolkata Knight Riders,Rajasthan Royals,174.0,137.0,Kolkata Knight Riders
+1216505,Delhi Capitals,Royal Challengers Bangalore,154.0,152.0,Delhi Capitals
+1216506,Chennai Super Kings,Punjab Kings,154.0,153.0,Chennai Super Kings
+1216507,Rajasthan Royals,Sunrisers Hyderabad,163.0,158.0,Rajasthan Royals
+1216508,Kolkata Knight Riders,Mumbai Indians,146.0,195.0,Mumbai Indians
+1216509,Chennai Super Kings,Delhi Capitals,179.0,185.0,Delhi Capitals
+1216510,Punjab Kings,Royal Challengers Bangalore,206.0,109.0,Punjab Kings
+1216511,Mumbai Indians,Rajasthan Royals,193.0,136.0,Mumbai Indians
+1216512,Kolkata Knight Riders,Sunrisers Hyderabad,166.0,165.0,Kolkata Knight Riders
+1216513,Chennai Super Kings,Punjab Kings,181.0,178.0,Chennai Super Kings
+1216514,Rajasthan Royals,Royal Challengers Bangalore,154.0,158.0,Royal Challengers Bangalore
+1216515,Delhi Capitals,Kolkata Knight Riders,228.0,210.0,Delhi Capitals
+1216516,Chennai Super Kings,Sunrisers Hyderabad,157.0,164.0,Sunrisers Hyderabad
+1216517,Mumbai Indians,Punjab Kings,192.0,196.0,Punjab Kings
+1216518,Rajasthan Royals,Sunrisers Hyderabad,154.0,156.0,Sunrisers Hyderabad
+1216519,Delhi Capitals,Royal Challengers Bangalore,196.0,137.0,Delhi Capitals
+1216520,Kolkata Knight Riders,Punjab Kings,149.0,150.0,Punjab Kings
+1216521,Chennai Super Kings,Mumbai Indians,114.0,116.0,Mumbai Indians
+1216522,Rajasthan Royals,Royal Challengers Bangalore,177.0,179.0,Royal Challengers Bangalore
+1216523,Kolkata Knight Riders,Punjab Kings,164.0,162.0,Kolkata Knight Riders
+1216524,Delhi Capitals,Sunrisers Hyderabad,131.0,219.0,Sunrisers Hyderabad
+1216525,Chennai Super Kings,Royal Challengers Bangalore,132.0,169.0,Royal Challengers Bangalore
+1216526,Kolkata Knight Riders,Mumbai Indians,148.0,149.0,Mumbai Indians
+1216527,Punjab Kings,Rajasthan Royals,223.0,226.0,Rajasthan Royals
+1216528,Chennai Super Kings,Sunrisers Hyderabad,167.0,147.0,Chennai Super Kings
+1216529,Delhi Capitals,Mumbai Indians,162.0,166.0,Mumbai Indians
+1216530,Kolkata Knight Riders,Rajasthan Royals,191.0,131.0,Kolkata Knight Riders
+1216531,Punjab Kings,Royal Challengers Bangalore,177.0,171.0,Punjab Kings
+1216532,Delhi Capitals,Sunrisers Hyderabad,147.0,162.0,Sunrisers Hyderabad
+1216533,Chennai Super Kings,Rajasthan Royals,125.0,126.0,Rajasthan Royals
+1216534,Royal Challengers Bangalore,Sunrisers Hyderabad,163.0,153.0,Royal Challengers Bangalore
+1216535,Delhi Capitals,Mumbai Indians,110.0,111.0,Mumbai Indians
+1216536,Chennai Super Kings,Kolkata Knight Riders,178.0,172.0,Chennai Super Kings
+1216537,Punjab Kings,Rajasthan Royals,185.0,186.0,Rajasthan Royals
+1216538,Mumbai Indians,Sunrisers Hyderabad,208.0,174.0,Mumbai Indians
+1216539,Chennai Super Kings,Delhi Capitals,131.0,175.0,Delhi Capitals
+1216540,Kolkata Knight Riders,Royal Challengers Bangalore,112.0,194.0,Royal Challengers Bangalore
+1216541,Mumbai Indians,Rajasthan Royals,195.0,196.0,Rajasthan Royals
+1216542,Punjab Kings,Sunrisers Hyderabad,132.0,201.0,Sunrisers Hyderabad
+1216543,Delhi Capitals,Rajasthan Royals,161.0,148.0,Delhi Capitals
+1216544,Chennai Super Kings,Royal Challengers Bangalore,150.0,145.0,Chennai Super Kings
+1216545,Kolkata Knight Riders,Sunrisers Hyderabad,145.0,142.0,Kolkata Knight Riders
+1216546,Delhi Capitals,Punjab Kings,164.0,167.0,Punjab Kings
+1216547,Mumbai Indians,Royal Challengers Bangalore,208.0,212.0,Royal Challengers Bangalore
+1237177,Delhi Capitals,Mumbai Indians,143.0,200.0,Mumbai Indians
+1237178,Royal Challengers Bangalore,Sunrisers Hyderabad,131.0,132.0,Sunrisers Hyderabad
+1237180,Delhi Capitals,Sunrisers Hyderabad,189.0,172.0,Delhi Capitals
+1237181,Delhi Capitals,Mumbai Indians,156.0,157.0,Mumbai Indians
+1254058,Mumbai Indians,Royal Challengers Bangalore,159.0,160.0,Royal Challengers Bangalore
+1254059,Chennai Super Kings,Delhi Capitals,188.0,190.0,Delhi Capitals
+1254060,Kolkata Knight Riders,Sunrisers Hyderabad,187.0,177.0,Kolkata Knight Riders
+1254061,Punjab Kings,Rajasthan Royals,221.0,217.0,Punjab Kings
+1254062,Kolkata Knight Riders,Mumbai Indians,142.0,152.0,Mumbai Indians
+1254063,Royal Challengers Bangalore,Sunrisers Hyderabad,149.0,143.0,Royal Challengers Bangalore
+1254064,Delhi Capitals,Rajasthan Royals,147.0,150.0,Rajasthan Royals
+1254065,Chennai Super Kings,Punjab Kings,107.0,106.0,Chennai Super Kings
+1254066,Mumbai Indians,Sunrisers Hyderabad,150.0,137.0,Mumbai Indians
+1254067,Kolkata Knight Riders,Royal Challengers Bangalore,166.0,204.0,Royal Challengers Bangalore
+1254068,Delhi Capitals,Punjab Kings,198.0,195.0,Delhi Capitals
+1254069,Chennai Super Kings,Rajasthan Royals,188.0,143.0,Chennai Super Kings
+1254070,Delhi Capitals,Mumbai Indians,138.0,137.0,Delhi Capitals
+1254071,Punjab Kings,Sunrisers Hyderabad,120.0,121.0,Sunrisers Hyderabad
+1254072,Chennai Super Kings,Kolkata Knight Riders,220.0,202.0,Chennai Super Kings
+1254073,Rajasthan Royals,Royal Challengers Bangalore,177.0,181.0,Royal Challengers Bangalore
+1254074,Mumbai Indians,Punjab Kings,131.0,132.0,Punjab Kings
+1254075,Kolkata Knight Riders,Rajasthan Royals,133.0,134.0,Rajasthan Royals
+1254076,Chennai Super Kings,Royal Challengers Bangalore,191.0,122.0,Chennai Super Kings
+1254077,Delhi Capitals,Sunrisers Hyderabad,167.0,166.0,Delhi Capitals
+1254078,Kolkata Knight Riders,Punjab Kings,126.0,123.0,Kolkata Knight Riders
+1254079,Delhi Capitals,Royal Challengers Bangalore,170.0,171.0,Royal Challengers Bangalore
+1254080,Chennai Super Kings,Sunrisers Hyderabad,173.0,171.0,Chennai Super Kings
+1254081,Mumbai Indians,Rajasthan Royals,172.0,171.0,Mumbai Indians
+1254082,Delhi Capitals,Kolkata Knight Riders,156.0,154.0,Delhi Capitals
+1254083,Punjab Kings,Royal Challengers Bangalore,179.0,145.0,Punjab Kings
+1254084,Chennai Super Kings,Mumbai Indians,218.0,219.0,Mumbai Indians
+1254085,Rajasthan Royals,Sunrisers Hyderabad,220.0,165.0,Rajasthan Royals
+1254086,Delhi Capitals,Punjab Kings,167.0,166.0,Delhi Capitals
+1254087,Kolkata Knight Riders,Royal Challengers Bangalore,94.0,92.0,Kolkata Knight Riders
+1254088,Mumbai Indians,Sunrisers Hyderabad,235.0,193.0,Mumbai Indians
+1254089,Chennai Super Kings,Rajasthan Royals,189.0,190.0,Rajasthan Royals
+1254090,Punjab Kings,Royal Challengers Bangalore,158.0,164.0,Royal Challengers Bangalore
+1254091,Chennai Super Kings,Sunrisers Hyderabad,139.0,134.0,Chennai Super Kings
+1254092,Delhi Capitals,Kolkata Knight Riders,127.0,130.0,Kolkata Knight Riders
+1254093,Mumbai Indians,Rajasthan Royals,94.0,90.0,Mumbai Indians
+1254094,Chennai Super Kings,Punjab Kings,134.0,139.0,Punjab Kings
+1254095,Royal Challengers Bangalore,Sunrisers Hyderabad,137.0,141.0,Sunrisers Hyderabad
+1254096,Kolkata Knight Riders,Mumbai Indians,159.0,155.0,Kolkata Knight Riders
+1254097,Delhi Capitals,Rajasthan Royals,154.0,121.0,Delhi Capitals
+1254098,Chennai Super Kings,Kolkata Knight Riders,172.0,171.0,Chennai Super Kings
+1254099,Mumbai Indians,Punjab Kings,137.0,135.0,Mumbai Indians
+1254100,Rajasthan Royals,Sunrisers Hyderabad,164.0,167.0,Sunrisers Hyderabad
+1254101,Delhi Capitals,Royal Challengers Bangalore,164.0,166.0,Royal Challengers Bangalore
+1254102,Kolkata Knight Riders,Punjab Kings,165.0,168.0,Punjab Kings
+1254103,Rajasthan Royals,Royal Challengers Bangalore,149.0,153.0,Royal Challengers Bangalore
+1254104,Chennai Super Kings,Mumbai Indians,156.0,136.0,Chennai Super Kings
+1254105,Delhi Capitals,Sunrisers Hyderabad,139.0,134.0,Delhi Capitals
+1254106,Kolkata Knight Riders,Rajasthan Royals,171.0,85.0,Kolkata Knight Riders
+1254107,Punjab Kings,Sunrisers Hyderabad,125.0,120.0,Punjab Kings
+1254108,Mumbai Indians,Royal Challengers Bangalore,111.0,165.0,Royal Challengers Bangalore
+1254109,Kolkata Knight Riders,Sunrisers Hyderabad,119.0,115.0,Kolkata Knight Riders
+1254110,Chennai Super Kings,Delhi Capitals,136.0,139.0,Delhi Capitals
+1254111,Punjab Kings,Rajasthan Royals,183.0,185.0,Rajasthan Royals
+1254112,Delhi Capitals,Mumbai Indians,132.0,129.0,Delhi Capitals
+1254113,Chennai Super Kings,Royal Challengers Bangalore,157.0,156.0,Chennai Super Kings
+1254114,Chennai Super Kings,Delhi Capitals,173.0,172.0,Chennai Super Kings
+1254115,Kolkata Knight Riders,Royal Challengers Bangalore,139.0,138.0,Kolkata Knight Riders
+1254116,Delhi Capitals,Kolkata Knight Riders,135.0,136.0,Kolkata Knight Riders
+1254117,Chennai Super Kings,Kolkata Knight Riders,192.0,165.0,Chennai Super Kings
+1304047,Chennai Super Kings,Kolkata Knight Riders,131.0,133.0,Kolkata Knight Riders
+1304048,Delhi Capitals,Mumbai Indians,179.0,177.0,Delhi Capitals
+1304049,Punjab Kings,Royal Challengers Bangalore,208.0,205.0,Punjab Kings
+1304050,Gujarat Titans,Lucknow Super Giants,161.0,158.0,Gujarat Titans
+1304051,Rajasthan Royals,Sunrisers Hyderabad,210.0,149.0,Rajasthan Royals
+1304052,Kolkata Knight Riders,Royal Challengers Bangalore,128.0,132.0,Royal Challengers Bangalore
+1304053,Chennai Super Kings,Lucknow Super Giants,210.0,211.0,Lucknow Super Giants
+1304054,Kolkata Knight Riders,Punjab Kings,141.0,137.0,Kolkata Knight Riders
+1304055,Mumbai Indians,Rajasthan Royals,170.0,193.0,Rajasthan Royals
+1304056,Delhi Capitals,Gujarat Titans,157.0,171.0,Gujarat Titans
+1304057,Chennai Super Kings,Punjab Kings,126.0,180.0,Punjab Kings
+1304058,Lucknow Super Giants,Sunrisers Hyderabad,169.0,157.0,Lucknow Super Giants
+1304059,Rajasthan Royals,Royal Challengers Bangalore,169.0,173.0,Royal Challengers Bangalore
+1304060,Kolkata Knight Riders,Mumbai Indians,162.0,161.0,Kolkata Knight Riders
+1304061,Delhi Capitals,Lucknow Super Giants,149.0,155.0,Lucknow Super Giants
+1304062,Gujarat Titans,Punjab Kings,190.0,189.0,Gujarat Titans
+1304063,Chennai Super Kings,Sunrisers Hyderabad,154.0,155.0,Sunrisers Hyderabad
+1304064,Mumbai Indians,Royal Challengers Bangalore,151.0,152.0,Royal Challengers Bangalore
+1304065,Delhi Capitals,Kolkata Knight Riders,215.0,171.0,Delhi Capitals
+1304066,Lucknow Super Giants,Rajasthan Royals,162.0,165.0,Rajasthan Royals
+1304067,Gujarat Titans,Sunrisers Hyderabad,162.0,168.0,Sunrisers Hyderabad
+1304068,Chennai Super Kings,Royal Challengers Bangalore,216.0,193.0,Chennai Super Kings
+1304069,Mumbai Indians,Punjab Kings,186.0,198.0,Punjab Kings
+1304070,Gujarat Titans,Rajasthan Royals,192.0,155.0,Gujarat Titans
+1304071,Kolkata Knight Riders,Sunrisers Hyderabad,175.0,176.0,Sunrisers Hyderabad
+1304072,Lucknow Super Giants,Mumbai Indians,199.0,181.0,Lucknow Super Giants
+1304073,Delhi Capitals,Royal Challengers Bangalore,173.0,189.0,Royal Challengers Bangalore
+1304074,Punjab Kings,Sunrisers Hyderabad,151.0,152.0,Sunrisers Hyderabad
+1304075,Chennai Super Kings,Gujarat Titans,169.0,170.0,Gujarat Titans
+1304076,Kolkata Knight Riders,Rajasthan Royals,210.0,217.0,Rajasthan Royals
+1304077,Lucknow Super Giants,Royal Challengers Bangalore,163.0,181.0,Royal Challengers Bangalore
+1304078,Delhi Capitals,Punjab Kings,119.0,115.0,Delhi Capitals
+1304079,Chennai Super Kings,Mumbai Indians,156.0,155.0,Chennai Super Kings
+1304080,Delhi Capitals,Rajasthan Royals,207.0,222.0,Rajasthan Royals
+1304081,Gujarat Titans,Kolkata Knight Riders,156.0,148.0,Gujarat Titans
+1304082,Royal Challengers Bangalore,Sunrisers Hyderabad,68.0,72.0,Sunrisers Hyderabad
+1304083,Lucknow Super Giants,Mumbai Indians,168.0,132.0,Lucknow Super Giants
+1304084,Chennai Super Kings,Punjab Kings,176.0,187.0,Punjab Kings
+1304085,Rajasthan Royals,Royal Challengers Bangalore,144.0,115.0,Rajasthan Royals
+1304086,Gujarat Titans,Sunrisers Hyderabad,199.0,195.0,Gujarat Titans
+1304087,Delhi Capitals,Kolkata Knight Riders,150.0,146.0,Delhi Capitals
+1304088,Lucknow Super Giants,Punjab Kings,153.0,133.0,Lucknow Super Giants
+1304089,Gujarat Titans,Royal Challengers Bangalore,174.0,170.0,Gujarat Titans
+1304090,Mumbai Indians,Rajasthan Royals,161.0,158.0,Mumbai Indians
+1304091,Delhi Capitals,Lucknow Super Giants,189.0,195.0,Lucknow Super Giants
+1304092,Chennai Super Kings,Sunrisers Hyderabad,202.0,189.0,Chennai Super Kings
+1304093,Kolkata Knight Riders,Rajasthan Royals,158.0,152.0,Kolkata Knight Riders
+1304094,Gujarat Titans,Punjab Kings,143.0,145.0,Punjab Kings
+1304095,Chennai Super Kings,Royal Challengers Bangalore,160.0,173.0,Royal Challengers Bangalore
+1304096,Delhi Capitals,Sunrisers Hyderabad,207.0,186.0,Delhi Capitals
+1304097,Gujarat Titans,Mumbai Indians,172.0,177.0,Mumbai Indians
+1304098,Punjab Kings,Rajasthan Royals,189.0,190.0,Rajasthan Royals
+1304099,Kolkata Knight Riders,Lucknow Super Giants,101.0,176.0,Lucknow Super Giants
+1304100,Royal Challengers Bangalore,Sunrisers Hyderabad,192.0,125.0,Royal Challengers Bangalore
+1304101,Chennai Super Kings,Delhi Capitals,208.0,117.0,Chennai Super Kings
+1304102,Kolkata Knight Riders,Mumbai Indians,165.0,113.0,Kolkata Knight Riders
+1304103,Gujarat Titans,Lucknow Super Giants,144.0,82.0,Gujarat Titans
+1304104,Delhi Capitals,Rajasthan Royals,161.0,160.0,Delhi Capitals
+1304105,Chennai Super Kings,Mumbai Indians,97.0,103.0,Mumbai Indians
+1304106,Punjab Kings,Royal Challengers Bangalore,209.0,155.0,Punjab Kings
+1304107,Kolkata Knight Riders,Sunrisers Hyderabad,177.0,123.0,Kolkata Knight Riders
+1304108,Chennai Super Kings,Gujarat Titans,133.0,137.0,Gujarat Titans
+1304109,Lucknow Super Giants,Rajasthan Royals,154.0,178.0,Rajasthan Royals
+1304110,Delhi Capitals,Punjab Kings,159.0,142.0,Delhi Capitals
+1304111,Mumbai Indians,Sunrisers Hyderabad,190.0,193.0,Sunrisers Hyderabad
+1304112,Kolkata Knight Riders,Lucknow Super Giants,208.0,210.0,Lucknow Super Giants
+1304113,Gujarat Titans,Royal Challengers Bangalore,168.0,170.0,Royal Challengers Bangalore
+1304114,Chennai Super Kings,Rajasthan Royals,150.0,151.0,Rajasthan Royals
+1304115,Delhi Capitals,Mumbai Indians,159.0,160.0,Mumbai Indians
+1304116,Punjab Kings,Sunrisers Hyderabad,160.0,157.0,Punjab Kings
+1312197,Gujarat Titans,Rajasthan Royals,191.0,188.0,Gujarat Titans
+1312198,Lucknow Super Giants,Royal Challengers Bangalore,193.0,207.0,Royal Challengers Bangalore
+1312199,Rajasthan Royals,Royal Challengers Bangalore,161.0,157.0,Rajasthan Royals
+1312200,Gujarat Titans,Rajasthan Royals,133.0,130.0,Gujarat Titans
+1359475,Chennai Super Kings,Gujarat Titans,178.0,182.0,Gujarat Titans
+1359476,Kolkata Knight Riders,Punjab Kings,146.0,191.0,Punjab Kings
+1359477,Delhi Capitals,Lucknow Super Giants,143.0,193.0,Lucknow Super Giants
+1359478,Rajasthan Royals,Sunrisers Hyderabad,203.0,131.0,Rajasthan Royals
+1359479,Mumbai Indians,Royal Challengers Bangalore,171.0,172.0,Royal Challengers Bangalore
+1359480,Chennai Super Kings,Lucknow Super Giants,217.0,205.0,Chennai Super Kings
+1359481,Delhi Capitals,Gujarat Titans,162.0,163.0,Gujarat Titans
+1359482,Punjab Kings,Rajasthan Royals,197.0,192.0,Punjab Kings
+1359483,Kolkata Knight Riders,Royal Challengers Bangalore,204.0,123.0,Kolkata Knight Riders
+1359484,Lucknow Super Giants,Sunrisers Hyderabad,127.0,121.0,Lucknow Super Giants
+1359485,Delhi Capitals,Rajasthan Royals,142.0,199.0,Rajasthan Royals
+1359486,Chennai Super Kings,Mumbai Indians,159.0,157.0,Chennai Super Kings
+1359487,Gujarat Titans,Kolkata Knight Riders,204.0,207.0,Kolkata Knight Riders
+1359488,Punjab Kings,Sunrisers Hyderabad,143.0,145.0,Sunrisers Hyderabad
+1359489,Lucknow Super Giants,Royal Challengers Bangalore,213.0,212.0,Lucknow Super Giants
+1359490,Delhi Capitals,Mumbai Indians,172.0,173.0,Mumbai Indians
+1359491,Chennai Super Kings,Rajasthan Royals,172.0,175.0,Rajasthan Royals
+1359492,Gujarat Titans,Punjab Kings,154.0,153.0,Gujarat Titans
+1359493,Kolkata Knight Riders,Sunrisers Hyderabad,205.0,228.0,Sunrisers Hyderabad
+1359494,Delhi Capitals,Royal Challengers Bangalore,151.0,174.0,Royal Challengers Bangalore
+1359495,Lucknow Super Giants,Punjab Kings,159.0,161.0,Punjab Kings
+1359496,Kolkata Knight Riders,Mumbai Indians,185.0,186.0,Mumbai Indians
+1359497,Gujarat Titans,Rajasthan Royals,177.0,179.0,Rajasthan Royals
+1359498,Chennai Super Kings,Royal Challengers Bangalore,226.0,218.0,Chennai Super Kings
+1359499,Mumbai Indians,Sunrisers Hyderabad,192.0,178.0,Mumbai Indians
+1359500,Lucknow Super Giants,Rajasthan Royals,154.0,144.0,Lucknow Super Giants
+1359501,Punjab Kings,Royal Challengers Bangalore,150.0,174.0,Royal Challengers Bangalore
+1359502,Delhi Capitals,Kolkata Knight Riders,128.0,127.0,Delhi Capitals
+1359503,Chennai Super Kings,Sunrisers Hyderabad,138.0,134.0,Chennai Super Kings
+1359504,Gujarat Titans,Lucknow Super Giants,135.0,128.0,Gujarat Titans
+1359505,Mumbai Indians,Punjab Kings,201.0,214.0,Punjab Kings
+1359506,Rajasthan Royals,Royal Challengers Bangalore,182.0,189.0,Royal Challengers Bangalore
+1359507,Chennai Super Kings,Kolkata Knight Riders,235.0,186.0,Chennai Super Kings
+1359508,Delhi Capitals,Sunrisers Hyderabad,144.0,137.0,Delhi Capitals
+1359509,Gujarat Titans,Mumbai Indians,207.0,152.0,Gujarat Titans
+1359510,Kolkata Knight Riders,Royal Challengers Bangalore,200.0,179.0,Kolkata Knight Riders
+1359511,Chennai Super Kings,Rajasthan Royals,170.0,202.0,Rajasthan Royals
+1359512,Lucknow Super Giants,Punjab Kings,257.0,201.0,Lucknow Super Giants
+1359513,Gujarat Titans,Kolkata Knight Riders,180.0,179.0,Gujarat Titans
+1359514,Delhi Capitals,Sunrisers Hyderabad,188.0,197.0,Sunrisers Hyderabad
+1359515,Chennai Super Kings,Punjab Kings,200.0,201.0,Punjab Kings
+1359516,Mumbai Indians,Rajasthan Royals,214.0,212.0,Mumbai Indians
+1359517,Lucknow Super Giants,Royal Challengers Bangalore,108.0,126.0,Royal Challengers Bangalore
+1359518,Delhi Capitals,Gujarat Titans,130.0,125.0,Delhi Capitals
+1359520,Mumbai Indians,Punjab Kings,216.0,214.0,Mumbai Indians
+1359521,Kolkata Knight Riders,Sunrisers Hyderabad,171.0,166.0,Kolkata Knight Riders
+1359522,Gujarat Titans,Rajasthan Royals,119.0,118.0,Gujarat Titans
+1359523,Chennai Super Kings,Mumbai Indians,140.0,139.0,Chennai Super Kings
+1359524,Delhi Capitals,Royal Challengers Bangalore,187.0,181.0,Delhi Capitals
+1359525,Gujarat Titans,Lucknow Super Giants,227.0,171.0,Gujarat Titans
+1359526,Rajasthan Royals,Sunrisers Hyderabad,214.0,217.0,Sunrisers Hyderabad
+1359527,Kolkata Knight Riders,Punjab Kings,182.0,179.0,Kolkata Knight Riders
+1359528,Mumbai Indians,Royal Challengers Bangalore,200.0,199.0,Mumbai Indians
+1359529,Chennai Super Kings,Delhi Capitals,167.0,140.0,Chennai Super Kings
+1359530,Kolkata Knight Riders,Rajasthan Royals,149.0,151.0,Rajasthan Royals
+1359531,Gujarat Titans,Mumbai Indians,191.0,218.0,Mumbai Indians
+1359532,Lucknow Super Giants,Sunrisers Hyderabad,185.0,182.0,Lucknow Super Giants
+1359533,Delhi Capitals,Punjab Kings,136.0,167.0,Punjab Kings
+1359534,Rajasthan Royals,Royal Challengers Bangalore,59.0,171.0,Royal Challengers Bangalore
+1359535,Chennai Super Kings,Kolkata Knight Riders,144.0,147.0,Kolkata Knight Riders
+1359536,Gujarat Titans,Sunrisers Hyderabad,188.0,154.0,Gujarat Titans
+1359537,Lucknow Super Giants,Mumbai Indians,177.0,172.0,Lucknow Super Giants
+1359538,Delhi Capitals,Punjab Kings,213.0,198.0,Delhi Capitals
+1359539,Royal Challengers Bangalore,Sunrisers Hyderabad,187.0,186.0,Royal Challengers Bangalore
+1359540,Punjab Kings,Rajasthan Royals,187.0,189.0,Rajasthan Royals
+1359541,Chennai Super Kings,Delhi Capitals,223.0,146.0,Chennai Super Kings
+1359542,Kolkata Knight Riders,Lucknow Super Giants,175.0,176.0,Lucknow Super Giants
+1359543,Mumbai Indians,Sunrisers Hyderabad,201.0,200.0,Mumbai Indians
+1359544,Gujarat Titans,Royal Challengers Bangalore,198.0,197.0,Gujarat Titans
+1370350,Chennai Super Kings,Gujarat Titans,172.0,157.0,Chennai Super Kings
+1370351,Lucknow Super Giants,Mumbai Indians,101.0,182.0,Mumbai Indians
+1370352,Gujarat Titans,Mumbai Indians,233.0,171.0,Gujarat Titans
+1370353,Chennai Super Kings,Gujarat Titans,171.0,214.0,Gujarat Titans
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,176.0,173.0,Chennai Super Kings
+1422120,Delhi Capitals,Punjab Kings,174.0,177.0,Punjab Kings
+1422121,Kolkata Knight Riders,Sunrisers Hyderabad,208.0,204.0,Kolkata Knight Riders
+1422122,Lucknow Super Giants,Rajasthan Royals,173.0,193.0,Rajasthan Royals
+1422123,Gujarat Titans,Mumbai Indians,168.0,162.0,Gujarat Titans
+1422124,Punjab Kings,Royal Challengers Bengaluru,176.0,178.0,Royal Challengers Bengaluru
+1422125,Chennai Super Kings,Gujarat Titans,206.0,143.0,Chennai Super Kings
+1422126,Mumbai Indians,Sunrisers Hyderabad,246.0,277.0,Sunrisers Hyderabad
+1422127,Delhi Capitals,Rajasthan Royals,173.0,185.0,Rajasthan Royals
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,186.0,182.0,Kolkata Knight Riders
+1422129,Lucknow Super Giants,Punjab Kings,199.0,178.0,Lucknow Super Giants
+1422130,Gujarat Titans,Sunrisers Hyderabad,168.0,162.0,Gujarat Titans
+1422131,Chennai Super Kings,Delhi Capitals,171.0,191.0,Delhi Capitals
+1422132,Mumbai Indians,Rajasthan Royals,125.0,127.0,Rajasthan Royals
+1422133,Lucknow Super Giants,Royal Challengers Bengaluru,181.0,153.0,Lucknow Super Giants
+1422134,Delhi Capitals,Kolkata Knight Riders,166.0,272.0,Kolkata Knight Riders
+1422135,Gujarat Titans,Punjab Kings,199.0,200.0,Punjab Kings
+1422136,Chennai Super Kings,Sunrisers Hyderabad,165.0,166.0,Sunrisers Hyderabad
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,189.0,183.0,Rajasthan Royals
+1422138,Delhi Capitals,Mumbai Indians,205.0,234.0,Mumbai Indians
+1422139,Gujarat Titans,Lucknow Super Giants,130.0,163.0,Lucknow Super Giants
+1426260,Chennai Super Kings,Kolkata Knight Riders,141.0,137.0,Chennai Super Kings
+1426261,Punjab Kings,Sunrisers Hyderabad,180.0,182.0,Sunrisers Hyderabad
+1426262,Gujarat Titans,Rajasthan Royals,199.0,196.0,Gujarat Titans
+1426263,Mumbai Indians,Royal Challengers Bengaluru,199.0,196.0,Mumbai Indians
+1426264,Delhi Capitals,Lucknow Super Giants,170.0,167.0,Delhi Capitals
+1426265,Punjab Kings,Rajasthan Royals,147.0,152.0,Rajasthan Royals
+1426266,Kolkata Knight Riders,Lucknow Super Giants,162.0,161.0,Kolkata Knight Riders
+1426267,Chennai Super Kings,Mumbai Indians,206.0,186.0,Chennai Super Kings
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,262.0,287.0,Sunrisers Hyderabad
+1426269,Kolkata Knight Riders,Rajasthan Royals,223.0,224.0,Rajasthan Royals
+1426270,Delhi Capitals,Gujarat Titans,92.0,89.0,Delhi Capitals
+1426271,Mumbai Indians,Punjab Kings,192.0,183.0,Mumbai Indians
+1426272,Chennai Super Kings,Lucknow Super Giants,176.0,180.0,Lucknow Super Giants
+1426273,Delhi Capitals,Sunrisers Hyderabad,199.0,266.0,Sunrisers Hyderabad
+1426274,Kolkata Knight Riders,Royal Challengers Bengaluru,222.0,221.0,Kolkata Knight Riders
+1426275,Gujarat Titans,Punjab Kings,146.0,142.0,Gujarat Titans
+1426276,Mumbai Indians,Rajasthan Royals,179.0,183.0,Rajasthan Royals
+1426277,Chennai Super Kings,Lucknow Super Giants,210.0,213.0,Lucknow Super Giants
+1426278,Delhi Capitals,Gujarat Titans,224.0,220.0,Delhi Capitals
+1426279,Royal Challengers Bengaluru,Sunrisers Hyderabad,206.0,171.0,Royal Challengers Bengaluru
+1426280,Kolkata Knight Riders,Punjab Kings,261.0,262.0,Punjab Kings
+1426281,Delhi Capitals,Mumbai Indians,257.0,247.0,Delhi Capitals
+1426282,Lucknow Super Giants,Rajasthan Royals,196.0,199.0,Rajasthan Royals
+1426283,Gujarat Titans,Royal Challengers Bengaluru,200.0,206.0,Royal Challengers Bengaluru
+1426284,Chennai Super Kings,Sunrisers Hyderabad,212.0,134.0,Chennai Super Kings
+1426285,Delhi Capitals,Kolkata Knight Riders,153.0,157.0,Kolkata Knight Riders
+1426286,Lucknow Super Giants,Mumbai Indians,145.0,144.0,Lucknow Super Giants
+1426287,Chennai Super Kings,Punjab Kings,162.0,163.0,Punjab Kings
+1426288,Rajasthan Royals,Sunrisers Hyderabad,200.0,201.0,Sunrisers Hyderabad
+1426289,Kolkata Knight Riders,Mumbai Indians,169.0,145.0,Kolkata Knight Riders
+1426290,Gujarat Titans,Royal Challengers Bengaluru,147.0,152.0,Royal Challengers Bengaluru
+1426291,Chennai Super Kings,Punjab Kings,167.0,139.0,Chennai Super Kings
+1426292,Kolkata Knight Riders,Lucknow Super Giants,235.0,137.0,Kolkata Knight Riders
+1426293,Mumbai Indians,Sunrisers Hyderabad,174.0,173.0,Mumbai Indians
+1426294,Delhi Capitals,Rajasthan Royals,221.0,201.0,Delhi Capitals
+1426295,Lucknow Super Giants,Sunrisers Hyderabad,165.0,167.0,Sunrisers Hyderabad
+1426296,Punjab Kings,Royal Challengers Bengaluru,181.0,241.0,Royal Challengers Bengaluru
+1426297,Chennai Super Kings,Gujarat Titans,196.0,231.0,Gujarat Titans
+1426298,Kolkata Knight Riders,Mumbai Indians,157.0,139.0,Kolkata Knight Riders
+1426299,Chennai Super Kings,Rajasthan Royals,145.0,141.0,Chennai Super Kings
+1426300,Delhi Capitals,Royal Challengers Bengaluru,140.0,187.0,Royal Challengers Bengaluru
+1426302,Delhi Capitals,Lucknow Super Giants,208.0,189.0,Delhi Capitals
+1426303,Punjab Kings,Rajasthan Royals,145.0,144.0,Punjab Kings
+1426305,Lucknow Super Giants,Mumbai Indians,214.0,196.0,Lucknow Super Giants
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,191.0,218.0,Royal Challengers Bengaluru
+1426307,Punjab Kings,Sunrisers Hyderabad,214.0,215.0,Sunrisers Hyderabad
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,164.0,159.0,Kolkata Knight Riders
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,174.0,172.0,Rajasthan Royals
+1426311,Rajasthan Royals,Sunrisers Hyderabad,139.0,175.0,Sunrisers Hyderabad
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,114.0,113.0,Kolkata Knight Riders
+1473438,Kolkata Knight Riders,Royal Challengers Bengaluru,174.0,177.0,Royal Challengers Bengaluru
+1473439,Rajasthan Royals,Sunrisers Hyderabad,242.0,286.0,Sunrisers Hyderabad
+1473440,Chennai Super Kings,Mumbai Indians,158.0,155.0,Chennai Super Kings
+1473441,Delhi Capitals,Lucknow Super Giants,211.0,209.0,Delhi Capitals
+1473442,Gujarat Titans,Punjab Kings,232.0,243.0,Punjab Kings
+1473443,Kolkata Knight Riders,Rajasthan Royals,153.0,151.0,Kolkata Knight Riders
+1473444,Lucknow Super Giants,Sunrisers Hyderabad,193.0,190.0,Lucknow Super Giants
+1473445,Chennai Super Kings,Royal Challengers Bengaluru,146.0,196.0,Royal Challengers Bengaluru
+1473446,Gujarat Titans,Mumbai Indians,196.0,160.0,Gujarat Titans
+1473447,Delhi Capitals,Sunrisers Hyderabad,166.0,163.0,Delhi Capitals
+1473448,Chennai Super Kings,Rajasthan Royals,176.0,182.0,Rajasthan Royals
+1473449,Kolkata Knight Riders,Mumbai Indians,116.0,121.0,Mumbai Indians
+1473450,Lucknow Super Giants,Punjab Kings,171.0,177.0,Punjab Kings
+1473451,Gujarat Titans,Royal Challengers Bengaluru,170.0,169.0,Gujarat Titans
+1473452,Kolkata Knight Riders,Sunrisers Hyderabad,200.0,120.0,Kolkata Knight Riders
+1473453,Lucknow Super Giants,Mumbai Indians,203.0,191.0,Lucknow Super Giants
+1473454,Chennai Super Kings,Delhi Capitals,158.0,183.0,Delhi Capitals
+1473455,Punjab Kings,Rajasthan Royals,155.0,205.0,Rajasthan Royals
+1473456,Kolkata Knight Riders,Lucknow Super Giants,234.0,238.0,Lucknow Super Giants
+1473457,Gujarat Titans,Sunrisers Hyderabad,153.0,152.0,Gujarat Titans
+1473458,Mumbai Indians,Royal Challengers Bengaluru,209.0,221.0,Royal Challengers Bengaluru
+1473459,Chennai Super Kings,Punjab Kings,201.0,219.0,Punjab Kings
+1473460,Gujarat Titans,Rajasthan Royals,217.0,159.0,Gujarat Titans
+1473461,Delhi Capitals,Royal Challengers Bengaluru,169.0,163.0,Delhi Capitals
+1473462,Chennai Super Kings,Kolkata Knight Riders,103.0,107.0,Kolkata Knight Riders
+1473463,Gujarat Titans,Lucknow Super Giants,180.0,186.0,Lucknow Super Giants
+1473464,Punjab Kings,Sunrisers Hyderabad,245.0,247.0,Sunrisers Hyderabad
+1473465,Rajasthan Royals,Royal Challengers Bengaluru,173.0,175.0,Royal Challengers Bengaluru
+1473466,Delhi Capitals,Mumbai Indians,193.0,205.0,Mumbai Indians
+1473467,Chennai Super Kings,Lucknow Super Giants,168.0,166.0,Chennai Super Kings
+1473468,Kolkata Knight Riders,Punjab Kings,95.0,111.0,Punjab Kings
+1473469,Delhi Capitals,Rajasthan Royals,201.0,199.0,Delhi Capitals
+1473470,Mumbai Indians,Sunrisers Hyderabad,166.0,162.0,Mumbai Indians
+1473471,Punjab Kings,Royal Challengers Bengaluru,98.0,95.0,Punjab Kings
+1473472,Delhi Capitals,Gujarat Titans,203.0,204.0,Gujarat Titans
+1473473,Lucknow Super Giants,Rajasthan Royals,180.0,178.0,Lucknow Super Giants
+1473474,Punjab Kings,Royal Challengers Bengaluru,157.0,159.0,Royal Challengers Bengaluru
+1473475,Chennai Super Kings,Mumbai Indians,176.0,177.0,Mumbai Indians
+1473476,Gujarat Titans,Kolkata Knight Riders,198.0,159.0,Gujarat Titans
+1473477,Delhi Capitals,Lucknow Super Giants,161.0,159.0,Delhi Capitals
+1473478,Mumbai Indians,Sunrisers Hyderabad,146.0,143.0,Mumbai Indians
+1473479,Rajasthan Royals,Royal Challengers Bengaluru,194.0,205.0,Royal Challengers Bengaluru
+1473480,Chennai Super Kings,Sunrisers Hyderabad,154.0,155.0,Sunrisers Hyderabad
+1473481,Kolkata Knight Riders,Punjab Kings,7.0,201.0,Punjab Kings
+1473482,Lucknow Super Giants,Mumbai Indians,161.0,215.0,Mumbai Indians
+1473483,Delhi Capitals,Royal Challengers Bengaluru,162.0,165.0,Royal Challengers Bengaluru
+1473484,Gujarat Titans,Rajasthan Royals,209.0,212.0,Rajasthan Royals
+1473485,Delhi Capitals,Kolkata Knight Riders,190.0,204.0,Kolkata Knight Riders
+1473486,Chennai Super Kings,Punjab Kings,190.0,194.0,Punjab Kings
+1473487,Mumbai Indians,Rajasthan Royals,217.0,117.0,Mumbai Indians
+1473488,Gujarat Titans,Sunrisers Hyderabad,224.0,186.0,Gujarat Titans
+1473489,Chennai Super Kings,Royal Challengers Bengaluru,211.0,213.0,Royal Challengers Bengaluru
+1473490,Kolkata Knight Riders,Rajasthan Royals,206.0,205.0,Kolkata Knight Riders
+1473491,Lucknow Super Giants,Punjab Kings,199.0,236.0,Punjab Kings
+1473493,Gujarat Titans,Mumbai Indians,147.0,155.0,Mumbai Indians
+1473494,Chennai Super Kings,Kolkata Knight Riders,183.0,179.0,Chennai Super Kings
+1473497,Punjab Kings,Rajasthan Royals,219.0,209.0,Punjab Kings
+1473498,Delhi Capitals,Gujarat Titans,199.0,205.0,Gujarat Titans
+1473499,Lucknow Super Giants,Sunrisers Hyderabad,205.0,206.0,Sunrisers Hyderabad
+1473500,Chennai Super Kings,Rajasthan Royals,187.0,188.0,Rajasthan Royals
+1473501,Delhi Capitals,Mumbai Indians,121.0,180.0,Mumbai Indians
+1473502,Gujarat Titans,Lucknow Super Giants,202.0,235.0,Lucknow Super Giants
+1473503,Royal Challengers Bengaluru,Sunrisers Hyderabad,189.0,231.0,Sunrisers Hyderabad
+1473504,Chennai Super Kings,Gujarat Titans,230.0,147.0,Chennai Super Kings
+1473505,Kolkata Knight Riders,Sunrisers Hyderabad,168.0,278.0,Sunrisers Hyderabad
+1473506,Mumbai Indians,Punjab Kings,184.0,187.0,Punjab Kings
+1473507,Lucknow Super Giants,Royal Challengers Bengaluru,227.0,230.0,Royal Challengers Bengaluru
+1473508,Punjab Kings,Royal Challengers Bengaluru,101.0,106.0,Royal Challengers Bengaluru
+1473509,Gujarat Titans,Mumbai Indians,208.0,228.0,Mumbai Indians
+1473510,Mumbai Indians,Punjab Kings,203.0,207.0,Punjab Kings
+1473511,Punjab Kings,Royal Challengers Bengaluru,184.0,190.0,Royal Challengers Bengaluru
+1485779,Delhi Capitals,Punjab Kings,208.0,206.0,Delhi Capitals
